@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "WOMEN TECHMAKERS MENORCA 2017"
 eventDate: "September - November, 2017"
-typeoutTextValues: '"", "Menorca", "Women", "Tech", "Makers"'
+# typeoutTextValues: '"", "Menorca", "Women", "Tech", "Makers"'
 typeoutFallback: "Season"
 heroButtons:
  # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
