@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "WTM Menorca 2017"
 email: "gdgmenorca@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/"
+baseurl: "/wtm-menorca"
 url: "http://wtm.gdgmenorca.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
