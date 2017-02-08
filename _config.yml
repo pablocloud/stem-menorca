@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "WTM Menorca 2017"
-email: "gdmenorca@gmail.com"
+email: "gdgmenorca@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/wtm-menorca"
 url: "https://pablocloud.github.io"
