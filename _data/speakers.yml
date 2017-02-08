@@ -2,7 +2,7 @@
   id: 1
   name: "Dra. Paz"
   surname: "Morillo"
-  company: ""
+  company: "Profesora de matemáticas en la ETSETB de la UPC"
   title: "Profesora de matemáticas en la ETSETB de la UPC"
   bio: ""
   thumbnailUrl: paz_morillo.jpg
@@ -20,7 +20,7 @@
   id: 3
   name: "Dra. Sandra"
   surname: "Guasch"
-  company: ""
+  company: "Scytl Secure Electronic Voting"
   title: "Scytl Secure Electronic Voting"
   bio: ""
   thumbnailUrl: sandra_guasch.jpg
