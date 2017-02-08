@@ -1,9 +1,27 @@
 - 
   id: 1
-  name: "Paz"
+  name: "Dra. Paz"
   surname: "Morillo"
+  company: ""
+  title: "Profesora de matemáticas en la ETSETB de la UPC"
+  bio: ""
+  thumbnailUrl: paz_morillo.jpg
+  rockstar: true
+-
+  id: 2
+  name: "Camila"
+  surname: "Perez"
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: paz_morillo.jpg
+  thumbnailUrl: camila_perez.jpg
+  rockstar: true
+-
+  id: 3
+  name: "Dra. Sandra"
+  surname: "Guasch"
+  company: ""
+  title: "Scytl Secure Electronic Voting"
+  bio: ""
+  thumbnailUrl: sandra_guasch.jpg
   rockstar: true
