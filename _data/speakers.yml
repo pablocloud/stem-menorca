@@ -29,8 +29,8 @@
   id: 4
   name: "Iris"
   surname: "Balcázar"
-  company: "Ingeniería informática y estudiante tercero de doble grado en matemáticas"
-  title: "Ingeniería informática y estudiante tercero de doble grado en matemáticas"
+  company: "Estudiante de tercero de doble grado en matemáticas y ingeniería informática (CFIS - UPC)"
+  title: "Estudiante de tercero de doble grado en matemáticas y ingeniería informática (CFIS - UPC)"
   bio: ""
   thumbnailUrl: iris_balcazar.jpeg
   rockstar: true
