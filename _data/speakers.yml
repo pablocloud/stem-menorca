@@ -25,3 +25,12 @@
   bio: ""
   thumbnailUrl: sandra_guasch.jpg
   rockstar: true
+-
+  id: 4
+  name: "Iris"
+  surname: "Balcázar"
+  company: "Ingeniería informática y estudiante tercero de doble grado en matemáticas"
+  title: "Ingeniería informática y estudiante tercero de doble grado en matemáticas"
+  bio: ""
+  thumbnailUrl: iris_balcazar.jpg
+  rockstar: true
