@@ -1,5 +1,5 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.png"}
     - {name: "UIB", description: "Universitat de les Illes Balears", link: "http://www.uib.es/es/", imageUrl: "uib.png"}
