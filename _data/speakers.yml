@@ -34,3 +34,12 @@
   bio: ""
   thumbnailUrl: iris_balcazar.jpeg
   rockstar: true
+-
+  id: 5
+  name: "Dra. Loren"
+  surname: "Carrasco"
+  company: "Directora de la Escuela Politécnica Superior de la UIB"
+  title: "Directora de la Escuela Politécnica Superior de la UIB"
+  bio: ""
+  thumbnailUrl: loren_carrasco.jpg
+  rockstar: true
