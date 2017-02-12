@@ -42,10 +42,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- # - {permalink: "/", text: "Home"}
- # - {permalink: "/blog/", text: "Blog"}
+   - {permalink: "#top-section-hero", text: "Inicio"}
+   - {permalink: "#about", text: "Sobre WTM"}
+   - {permalink: "#rockstar-speakers", text: "Ponentes"}
+   - {permalink: "#partners", text: "Colaboradores"}
  # - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
