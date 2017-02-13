@@ -43,3 +43,12 @@
   bio: ""
   thumbnailUrl: loren_carrasco.jpg
   rockstar: true
+-
+  id: 6
+  name: "Camila"
+  surname: "Tudurí"
+  company: "Profesora de matemáticas e inspectora de educación en Menorca"
+  title: "Profesora de matemáticas e inspectora de educación en Menorca"
+  bio: ""
+  thumbnailUrl: camila_tuduri.jpg
+  rockstar: true
