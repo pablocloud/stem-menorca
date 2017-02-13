@@ -46,6 +46,7 @@ navigationLinks:
    - {permalink: "#about", text: "Sobre WTM"}
    - {permalink: "#rockstar-speakers", text: "Ponentes"}
    - {permalink: "#schedule", text: "Agenda"}
+   - {permalink: "#location-map", text: "Localización"}
    - {permalink: "#partners", text: "Colaboradores"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/team/", text: "Team"}
