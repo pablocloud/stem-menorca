@@ -1,6 +1,6 @@
 - 
   date: "2017-03-10"
-  dateReadable: "10 de Marzo"
+  dateReadable: "10 de Marzo / CentreBIT"
   tracks: 
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
@@ -19,6 +19,11 @@
         endTime: "11:05",
         sessionIds: [304]
     }
+    - {
+        startTime: "11:05",
+        endTime: "11:35",
+        sessionIds: [310]
+      }
     - {
         startTime: "11:35",
         endTime: "12:05",
