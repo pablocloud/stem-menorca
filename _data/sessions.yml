@@ -2,11 +2,35 @@
   id: 301
   title: "Alex Alemany"
   place: ""
-  service: true
+  service: false
   description: ""
 -
   id: 302
   title: "Camila Tudurí"
   place: ""
-  service: true
+  service: false
+  description: ""
+-
+  id: 303
+  title: "Carmen Crespo"
+  place: ""
+  service: false
+  description: ""
+-
+  id: 304
+  title: "Iris Balcázar Castell"
+  place: ""
+  service: false
+  description: ""
+-
+  id: 305
+  title: "Camila Pérez Arévalo"
+  place: ""
+  service: false
+  description: ""
+-
+  id: 306
+  title: "Loren Carrasco Martorell"
+  place: ""
+  service: false
   description: ""

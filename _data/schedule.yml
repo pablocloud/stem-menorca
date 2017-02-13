@@ -9,3 +9,28 @@
     	endTime: "10:00",
     	sessionIds: [301, 302]
     }
+    - {
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionIds: [303]
+    }
+    - {
+        startTime: "10:35",
+        endTime: "11:05",
+        sessionIds: [304]
+    }
+    - {
+        startTime: "11:35",
+        endTime: "12:05",
+        sessionIds: [305]
+      }
+    - {
+        startTime: "12:10",
+        endTime: "12:40",
+        sessionIds: [306]
+      }
+    - {
+        startTime: "12:45",
+        endTime: "12:15",
+        sessionIds: [301]
+      }
