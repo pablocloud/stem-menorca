@@ -7,5 +7,5 @@
     - {
     	startTime: "09:30",
     	endTime: "10:00",
-    	sessionIds: [301]
+    	sessionIds: [301, 302]
     }
