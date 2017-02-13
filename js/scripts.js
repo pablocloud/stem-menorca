@@ -271,7 +271,7 @@
         var po = document.createElement('script');
         po.type = 'text/javascript';
         po.async = true;
-        po.src = 'https://apis.google.com/js/platform.js?key=AIzaSyA6FLR8gecQm-cIZak8YibN-A72jBcQ-UU&';
+        po.src = 'https://apis.google.com/js/platform.js?key=AIzaSyA6FLR8gecQm-cIZak8YibN-A72jBcQ-UU';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(po, s);
     }
