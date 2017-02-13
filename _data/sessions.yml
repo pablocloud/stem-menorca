@@ -3,13 +3,13 @@
   title: "Alex Alemany"
   place: ""
   service: false
-  description: ""
+  description: "Presentación GDG Menorca y Women Techmakers"
 -
   id: 302
   title: "Camila Tudurí"
   place: ""
   service: false
-  description: ""
+  description: "Obertura"
 -
   id: 303
   title: "Carmen Crespo"
@@ -31,6 +31,12 @@
 -
   id: 306
   title: "Dra. Loren Carrasco"
+  place: ""
+  service: false
+  description: ""
+-
+  id: 307
+  title: "Alex Alemany"
   place: ""
   service: false
   description: ""
