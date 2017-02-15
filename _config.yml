@@ -29,8 +29,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.gdgmenorca.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, gdgmenorca,menorca"
+twitterAccount: ""
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -182,27 +182,6 @@ ticketsOffers:
   validThrough: "2014-10-23T23:59"
   soldOut: true
   soldOutText: "Sold Out"
-
-# Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
-footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
