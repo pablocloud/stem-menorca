@@ -3,3 +3,4 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.png"}
     - {name: "UIB", description: "Universitat de les Illes Balears", link: "http://eps.uib.es/", imageUrl: "uib.png"}
+    - {name: "CentreBit Menorca", description: "CentreBit Menorca", link: "http://blog.fundaciobit.org/es/centre-bit-menorca/", imageUrl: "centrebit.png"}
