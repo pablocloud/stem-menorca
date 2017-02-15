@@ -15,7 +15,7 @@
   title: "Carmen Crespo"
   place: ""
   service: false
-  description: ""
+  description: "CentreBIT Menorca: Motor de impulso tecnológico"
 -
   id: 304
   title: "Iris Balcázar"
@@ -41,8 +41,26 @@
   service: false
   description: "Despedida del evento"
 -
+  id: 308
+  title: "Dra. Paz Morillo"
+  place: ""
+  service: false
+  description: "Un paseo por la criptografía"
+-
+  id: 309
+  title: "Dra. Sandra Guasch"
+  place: ""
+  service: false
+  description: "Voto electrónico y otras tecnologías para la participación ciudadana"
+-
   id: 310
   title: "Coffee Break"
   place: ""
   service: false
   description: ""
+-
+  id: 311
+  title: "Alex Alemany"
+  place: ""
+  service: false
+  description: "Apertura y presentación"
