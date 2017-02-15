@@ -5,6 +5,9 @@
             <h3>{{ site.aboutTitle }}</h3>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <img src="/img/other/sala.jpg" width="100%">
+                </div>
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-12">
@@ -19,6 +22,21 @@
                 <div class="clearfix visible-xs"></div>
                 {% endif %}
                 {% endfor %}
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <h4>GDG Menorca</h4>
+                    <p>Google Developers Group Menorca (GDG Menorca) es un grupo tecnológico compuesto por
+                        desarrolladores
+                        interesados en las tecnologías de Google, como Android, App Engine, Google Chrome, o APIs como
+                        Maps
+                        API, YouTube API y el Google Calendar API. En el que nos dedicamos a hacer eventos que pueden
+                        ser
+                        desde pequeñas quedadas en un bar hasta grandes eventos de calidad como este. Hacemos eventos de
+                        tipo tecnológico cada cierto tiempo.</p>
+
+                    <p>Disclaimer: GDG Menorca is an independiente group; our activities and the opinions Expressed on
+                        this
+                        website should in no way be linked to Google, the corporation.</p>
+                </div>
             </div>
         </div>
         <div class="col-lg-10 col-lg-offset-1">
