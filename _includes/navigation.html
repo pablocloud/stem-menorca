@@ -14,6 +14,9 @@
                 <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
             </li>
             {% endfor %}
+            <li>
+                <a href="https://www.meetup.com/es-ES/Google-Developers-Group-Menorca/events/237704852/?eventId=237704852" target="_blank" class="btn btn-primary waves-effect waves-button waves-light waves-float">Apúntate</a>
+            </li>
         </ul>
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
             {% for bottomNavigationLink in site.bottomNavigationLinks %}
