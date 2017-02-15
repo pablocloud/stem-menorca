@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "WTM Menorca 2017"
 email: "gdgmenorca@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "Women Techmakers"
 baseurl: "http://wtm.gdgmenorca.com/"
 url: "http://wtm.gdgmenorca.com"
 permalink: "/blog/:title"
