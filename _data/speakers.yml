@@ -52,3 +52,12 @@
   bio: ""
   thumbnailUrl: camila_tuduri.jpg
   rockstar: true
+-
+  id: 7
+  name: "Carmen"
+  surname: "Crespo"
+  company: "Gerente del Centre Bit Menorca"
+  title: "Gerente del Centre Bit Menorca"
+  bio: ""
+  thumbnailUrl: carmen_crespo.jpg
+  rockstar: true
