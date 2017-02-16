@@ -39,7 +39,7 @@
   title: "Alex Alemany"
   place: ""
   service: false
-  description: "Despedida del evento matinal"
+  description: "Despedida del evento"
 -
   id: 308
   title: "Dra. Paz Morillo"
@@ -75,4 +75,4 @@
   title: "Alex Alemany"
   place: ""
   service: false
-  description: "Despedida del evento"
+  description: "Despedida del evento matinal"
