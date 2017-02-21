@@ -45,7 +45,7 @@
   title: "Dra. Paz Morillo"
   place: ""
   service: false
-  description: "Un paseo por la criptografía"
+  description: "Un paseo por la criptografía: El objetivo de esta charla es dar a conocer los problemas que a lo largo de la historia han sido resueltos por el arte y ciencia denominado criptografía. Empezaremos por una exposición de los métodos clásicos de cifrado de mensajes, seguiremos con el gran avance que supuso en los setenta la aparición de la clave pública que permitió realizar de forma sencilla el intercambio de mensajes cifrados entre un gran número de usuarios, así como la firma digital. Finalmente daremos algunas nociones de la criptografía que está siendo necesaria en esta era digital: demostraciones de conocimiento nulo, cálculos con datos cifrados..."
 -
   id: 309
   title: "Dra. Sandra Guasch"
