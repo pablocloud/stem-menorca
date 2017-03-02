@@ -61,3 +61,12 @@
   bio: ""
   thumbnailUrl: carmen_crespo.jpg
   rockstar: true
+-
+  id: 8
+  name: "Marilén"
+  surname: "Gonzalez"
+  company: "Experimentada desarrolladora y consultora senior en el área de administración digital de la Fundació BIT"
+  title: "Experimentada desarrolladora y consultora senior en el área de administración digital de la Fundació BIT"
+  bio: ""
+  thumbnailUrl: marilen_gonzalez.jpg
+  rockstar: true
