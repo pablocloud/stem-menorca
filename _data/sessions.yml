@@ -3,31 +3,31 @@
   title: "Alex Alemany"
   place: ""
   service: false
-  description: "Presentación GDG Menorca y Women Techmakers"
+  description: "<h4>Presentación GDG Menorca y Women Techmakers</h4>"
 -
   id: 302
   title: "Camila Tudurí"
   place: ""
   service: false
-  description: "Apertura"
+  description: "<h4>Apertura</h4>"
 -
   id: 303
   title: "Carmen Crespo"
   place: ""
   service: false
-  description: "CentreBIT Menorca: Motor de impulso tecnológico"
+  description: "<h4>CentreBIT Menorca: Motor de impulso tecnológico</h4>"
 -
   id: 304
   title: "Iris Balcázar"
   place: ""
   service: false
-  description: "Experiencias de una futura techmaker"
+  description: "<h4>Experiencias de una futura techmaker</h4>"
 -
   id: 305
   title: "Camila Pérez"
   place: ""
   service: false
-  description: ""
+  description: "<h4>La informática también habla de personas</h4>"
 -
   id: 306
   title: "Dra. Loren Carrasco"
@@ -39,7 +39,7 @@
   title: "Alex Alemany"
   place: ""
   service: false
-  description: "Despedida del evento"
+  description: "<h4>Despedida del evento</h4>"
 -
   id: 308
   title: "Dra. Paz Morillo"
@@ -51,7 +51,7 @@
   title: "Dra. Sandra Guasch"
   place: ""
   service: false
-  description: "Voto electrónico y otras tecnologías para la participación ciudadana"
+  description: "<h4>Voto electrónico y otras tecnologías para la participación ciudadana</h4>"
 -
   id: 310
   title: "Coffee Break"
@@ -63,16 +63,16 @@
   title: "Alex Alemany"
   place: ""
   service: false
-  description: "Apertura y presentación"
+  description: "<h4>Apertura y presentación</h4>"
 -
   id: 312
-  title: ""
+  title: "Marilén Gonzalez"
   place: ""
   service: false
-  description: ""
+  description: "<h4>Desarrollando desde el sector tecnológico</h4>"
 -
   id: 313
   title: "Alex Alemany"
   place: ""
   service: false
-  description: "Despedida del evento matinal"
+  description: "<h4>Despedida del evento matinal</h4>"
