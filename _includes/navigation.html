@@ -3,9 +3,9 @@
     <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32">
         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-menu"></use>
     </svg>
-    <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
+    <!--<a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
         <div class="logo logo-light"></div>
-    </a>
+    </a>-->
     <nav class="st-menu st-effect" id="menu">
         <div class="logo-navbar logo logo-dark visible-xs"></div>
         <ul>
@@ -14,6 +14,9 @@
                 <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
             </li>
             {% endfor %}
+            <li>
+                <a href="https://www.facebook.com/events/1774535322865482/" target="_blank" class="btn btn-primary waves-effect waves-button waves-light waves-float">¡¡Apúntate, es gratis!!</a>
+            </li>
         </ul>
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
             {% for bottomNavigationLink in site.bottomNavigationLinks %}

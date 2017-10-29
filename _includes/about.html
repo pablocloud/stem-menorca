@@ -7,19 +7,25 @@
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-6">  
+                <div class="col-md-{{ colWidth }} col-xs-12">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <h5>{{ about.title }}</h5>
-                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
-                        <p>{{ about.text }}</p>
+                        {{ about.text }}
                     </div>
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% assign check = forloop.index | modulo:2 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% if check == 0 %}
+                <div class="clearfix visible-xs"></div>
+                {% endif %}
                 {% endfor %}
             </div>
         </div>
+        <div class="col-lg-10 col-lg-offset-1">
+            <script src="//www.powr.io/powr.js" external-type="squarespace"></script>
+            <div class="powr-countdown-timer" id="783aa81d_1486588553"></div>
+        </div>
+        <img src="/img/other/sala.png" width="100%">
     </div>
 </section>
 <!-- End About Section -->

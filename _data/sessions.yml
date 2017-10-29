@@ -1,59 +1,78 @@
 -
+  id: 301
+  title: "Alex Alemany"
+  place: ""
+  service: false
+  description: "<h4>Presentación GDG Menorca y Women Techmakers</h4>"
+-
+  id: 302
+  title: "Camila Tudurí"
+  place: ""
+  service: false
+  description: "<h4>Apertura</h4>"
+-
+  id: 303
+  title: "Carmen Crespo"
+  place: ""
+  service: false
+  description: "<h4>CentreBIT Menorca: Motor de impulso tecnológico</h4>"
+-
+  id: 304
+  title: "Iris Balcázar"
+  place: ""
+  service: false
+  description: "<h4>Experiencias de una futura techmaker</h4>"
+-
+  id: 305
+  title: "Camila Pérez"
+  place: ""
+  service: false
+  description: "<h4>La informática también habla de personas</h4>Cuando hablamos de informática normalmente lo primero que aparece en nuestras mentes es un ordenador, pero… ¿Qué hay de las personas detrás de ellos y las personas a los que van destinados todos los sistemas interactivos creados hasta el momento? ¿Se puede mejorar la vida de alguien con un programa informático o con un videojuego? El objetivo de esta charla es conocer el camino de una estudiante desde el momento en que escogió su carrera, las experiencias durante la vida universitaria y el trabajo social que se puede realizar con la tecnología para ayudar a personas con diferentes discapacidades."
+-
+  id: 306
+  title: "Dra. Loren Carrasco"
+  place: ""
+  service: false
+  description: "<h4>Profesional tecnológico = home.</h4>Motivos y consecuencias de la renuncia de las mujeres a las carreras tecnológicas."
+-
   id: 307
+  title: "Alex Alemany"
+  place: ""
+  service: false
+  description: "<h4>Despedida del evento</h4>"
+-
+  id: 308
+  title: "Dra. Paz Morillo"
+  place: ""
+  service: false
+  description: "<h4>Un paseo por la criptografía</h4>El objetivo de esta charla es dar a conocer los problemas que a lo largo de la historia han sido resueltos por el arte y ciencia denominado criptografía. Empezaremos por una exposición de los métodos clásicos de cifrado de mensajes, seguiremos con el gran avance que supuso en los setenta la aparición de la clave pública que permitió realizar de forma sencilla el intercambio de mensajes cifrados entre un gran número de usuarios, así como la firma digital. Finalmente daremos algunas nociones de la criptografía que está siendo necesaria en esta era digital: demostraciones de conocimiento nulo, cálculos con datos cifrados..."
+-
+  id: 309
+  title: "Dra. Sandra Guasch"
+  place: ""
+  service: false
+  description: "<h4>Voto electrónico y otras tecnologías para la participación ciudadana</h4>"
+-
+  id: 310
   title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
+  place: ""
+  service: false
+  description: ""
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
+  id: 311
+  title: "Alex Alemany"
+  place: ""
+  service: false
+  description: "<h4>Apertura y presentación</h4>"
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 312
+  title: "Marilén Gonzalez"
+  place: ""
+  service: false
+  description: "<h4>Desarrollando desde el sector tecnológico</h4>"
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 313
+  title: "Alex Alemany"
+  place: ""
+  service: false
+  description: "<h4>Despedida del evento matinal</h4>"

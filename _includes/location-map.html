@@ -1,8 +1,6 @@
-<!-- Begin Location Section -->
 <section id="location-map" class="location-map">
-    <div id="canvas-map" class="canvas-map"></div>
     <div class="content-wrapper">
-        <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
+        <div class="col-lg-3 col-md-4 col-sm-6 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
                 <div class="pull-left">
                     <h3>{{ site.locationBlockTitle }}</h3>
@@ -16,10 +14,48 @@
                             {% assign endTime = site.eventEndTime | split: "T" %}
                             <time>{{ endTime[1] }}</time>
                         </li>
+                        <li>
+                            <a href="https://www.facebook.com/events/1774535322865482/" target="_blank" class="btn btn-primary waves-effect waves-button waves-light waves-float">¡¡Apúntate, es gratis!!</a>
+                        </li>
                     </ul>
                 </div>
             </div>
         </div>
+        <div class="col-lg-9 col-md-8 col-sm-6">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3059.335167151369!2d4.147154315811757!3d39.93389197942422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12be20cc8dc64919%3A0xcfb000f1d3d9a227!2sCentreBit+Menorca!5e0!3m2!1ses!2ses!4v1487023922488" width="100%" height="640px" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+        <div id="gdg-menorca" class="col-lg-8 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2">
+            <h4>GDG Menorca</h4>
+            <p>Google Developers Group Menorca (GDG Menorca) es un grupo tecnológico compuesto por
+                desarrolladores
+                interesados en las tecnologías de Google, como Android, App Engine, Google Chrome, o APIs como
+                Maps
+                API, YouTube API y el Google Calendar API. En el que nos dedicamos a hacer eventos que pueden
+                ser
+                desde pequeñas quedadas en un bar hasta grandes eventos de calidad como este. Hacemos eventos de
+                tipo tecnológico cada cierto tiempo.</p>
+            <p>Disclaimer: GDG Menorca is an independiente group; our activities and the opinions Expressed on
+                this
+                website should in no way be linked to Google, the corporation.</p>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <a target="_blank" href="http://gdgmenorca.com">
+                <img src="/img/social/gdgmenorca.png" style="width: 240px;height: 240px"/>
+            </a>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <a target="_blank" href="https://plus.google.com/u/0/100839678049320757129">
+                <img src="/img/social/google.png" style="width: 64px;height: 64px"/>
+            </a>
+            <a target="_blank" href="https://www.facebook.com/GDGMenorca/">
+                <img src="/img/social/facebook.png" style="width: 64px;height: 64px"/>
+            </a>
+            <a target="_blank" href="https://twitter.com/GDG_Menorca">
+                <img src="/img/social/twitter.png" style="width: 64px;height: 64px"/>
+            </a>
+            <a target="_blank" href="https://www.meetup.com/es-ES/Google-Developers-Group-Menorca/">
+                <img src="/img/social/meetup.png" style="width: 64px;height: 64px"/>
+            </a>
+        </div>
     </div>
 </section>
-<!-- End Location Section -->
