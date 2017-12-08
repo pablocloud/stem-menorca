@@ -1,72 +1,9 @@
-- 
-  id: 1
-  name: "Dra. Paz"
-  surname: "Morillo"
-  company: "Profesora de matemáticas en la ETSETB de la UPC"
-  title: "Profesora de matemáticas en la ETSETB de la UPC"
-  bio: ""
-  thumbnailUrl: paz_morillo.jpg
-  rockstar: true
--
-  id: 2
-  name: "Camila"
-  surname: "Pérez"
-  company: "Alumna 4º curso de ingeniería informática en la UIB"
-  title: "Alumna 4º curso de ingeniería informática en la UIB"
-  bio: ""
-  thumbnailUrl: camila_perez.jpg
-  rockstar: true
--
-  id: 3
-  name: "Dra. Sandra"
-  surname: "Guasch"
-  company: "Investigadora en el departamento de I+D en Scytl Secure Electronic Voting"
-  title: "Investigadora en el departamento de I+D en Scytl Secure Electronic Voting"
-  bio: ""
-  thumbnailUrl: sandra_guasch.jpg
-  rockstar: true
--
-  id: 4
-  name: "Iris"
-  surname: "Balcázar"
-  company: "Estudiante de 3º de doble grado en matemáticas e ingeniería informática (CFIS - UPC)"
-  title: "Estudiante de 3º de doble grado en matemáticas e ingeniería informática (CFIS - UPC)"
-  bio: ""
-  thumbnailUrl: iris_balcazar.jpeg
-  rockstar: true
--
-  id: 5
-  name: "Dra. Loren"
-  surname: "Carrasco"
-  company: "Directora de la Escuela Politécnica Superior de la UIB"
-  title: "Directora de la Escuela Politécnica Superior de la UIB"
-  bio: ""
-  thumbnailUrl: loren_carrasco.jpg
-  rockstar: true
--
-  id: 6
-  name: "Camila"
-  surname: "Tudurí"
-  company: "Profesora de matemáticas e inspectora de educación en Menorca"
-  title: "Profesora de matemáticas e inspectora de educación en Menorca"
-  bio: ""
-  thumbnailUrl: camila_tuduri.jpg
-  rockstar: true
--
-  id: 7
-  name: "Carmen"
-  surname: "Crespo"
-  company: "Delegada del Centre Bit Menorca"
-  title: "Delegada del Centre Bit Menorca"
-  bio: ""
-  thumbnailUrl: carmen_crespo.jpg
-  rockstar: true
--
-  id: 8
-  name: "Marilén"
-  surname: "Gonzalez"
-  company: "Experimentada desarrolladora y consultora senior en el área de administración digital de la Fundació BIT"
-  title: "Experimentada desarrolladora y consultora senior en el área de administración digital de la Fundació BIT"
-  bio: ""
-  thumbnailUrl: marilen_gonzalez.jpg
-  rockstar: true
+#-
+#  id: 1
+#  name: "Dra. Paz"
+#  surname: "Morillo"
+#  company: "Profesora de matemáticas en la ETSETB de la UPC"
+#  title: "Profesora de matemáticas en la ETSETB de la UPC"
+#  bio: ""
+#  thumbnailUrl: paz_morillo.jpg
+#  rockstar: true
