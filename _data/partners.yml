@@ -2,7 +2,3 @@
   group: "General sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.png"}
-    - {name: "UIB", description: "Universitat de les Illes Balears", link: "http://eps.uib.es/", imageUrl: "uib.png"}
-    - {name: "CentreBit Menorca", description: "CentreBit Menorca", link: "http://blog.fundaciobit.org/es/centre-bit-menorca/", imageUrl: "centrebit.png"}
-    - {name: "Consell Insular De Menorca", description: "Consell Insular De Menorca", link: "http://www.cime.es/", imageUrl: "consell_menorca.jpg"}
-    - {name: "Ayuntamiento Alaior", description: "Ayuntamiento Alaior", link: "http://www.alaior.org/", imageUrl: "alaior.jpg"}
