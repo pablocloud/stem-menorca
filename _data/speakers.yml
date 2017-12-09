@@ -7,3 +7,21 @@
   bio: ""
   thumbnailUrl: miquel_gabarro.jpg
   rockstar: true
+-
+  id: 2
+  name: "Jaume"
+  surname: "Farres"
+  company: "Decano de Facultat de Biociències de la UAB"
+  title: "Decano de Facultat de Biociències de la UAB"
+  bio: ""
+  thumbnailUrl: jaume_farres.jpg
+  rockstar: true
+-
+  id: 3
+  name: "Guillaume"
+  surname: "Houzeaux"
+  company: "Manager del grupo de modelado físico y numérico el Centro Nacional de Supercomputación"
+  title: "Manager del grupo de modelado físico y numérico el Centro Nacional de Supercomputación"
+  bio: ""
+  thumbnailUrl: jaume_farres.jpg
+  rockstar: true
