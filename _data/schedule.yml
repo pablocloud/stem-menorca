@@ -5,6 +5,11 @@
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
     - {
+      	startTime: "18:00",
+      	endTime: "18:30",
+      	sessionIds: [305]
+      }
+    - {
     	startTime: "19:00",
     	endTime: "19:30",
     	sessionIds: [302]

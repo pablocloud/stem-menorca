@@ -34,3 +34,12 @@
   bio: ""
   thumbnailUrl: nuria_castell.jpg
   rockstar: true
+-
+  id: 5
+  name: "Alex"
+  surname: "Escala Ribas"
+  company: "Kernel Analytics"
+  title: "Kernel Analytics"
+  bio: ""
+  thumbnailUrl: alex_escala.jpg
+  rockstar: true
