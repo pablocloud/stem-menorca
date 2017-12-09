@@ -1,4 +1,15 @@
 -
+  date: "2018-01-25"
+  dateReadable: "25 de Enero"
+  tracks:
+    - {title: "Ponente", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "19:00",
+    	endTime: "19:30",
+    	sessionIds: [302]
+    }
+-
   date: "2018-01-26"
   dateReadable: "26 de Enero"
   tracks:
@@ -8,4 +19,9 @@
     	startTime: "10:30",
     	endTime: "11:00",
     	sessionIds: [301]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [302]
     }

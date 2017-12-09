@@ -4,3 +4,15 @@
   place: ""
   service: false
   description: "<h4>Besuricata</h4>"
+-
+  id: 302
+  title: "Jaume Farres"
+  place: ""
+  service: false
+  description: ""
+-
+  id: 303
+  title: "Guillaume Houzeaux"
+  place: ""
+  service: false
+  description: ""
