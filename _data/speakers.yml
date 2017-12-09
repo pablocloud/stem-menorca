@@ -25,3 +25,12 @@
   bio: ""
   thumbnailUrl: guillaume_houzeaux.jpg
   rockstar: true
+-
+  id: 4
+  name: "Núria"
+  surname: "Castell"
+  company: "Exdecana de la Facultat de Informática de la UPC"
+  title: "Exdecana de la Facultat de Informática de la UPC"
+  bio: ""
+  thumbnailUrl: nuria_castell.jpg
+  rockstar: true
