@@ -44,8 +44,8 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
    - {permalink: "#top-section-hero", text: "Inicio"}
    - {permalink: "#about", text: "Sobre WTM"}
-#   - {permalink: "#rockstar-speakers", text: "Ponentes"}
-#   - {permalink: "#schedule", text: "Agenda"}
+   - {permalink: "#rockstar-speakers", text: "Ponentes"}
+   - {permalink: "#schedule", text: "Agenda"}
    - {permalink: "#location-map", text: "Localización"}
    - {permalink: "#gdg-menorca", text: "GDG Menorca"}
    - {permalink: "#partners", text: "Colaboradores"}
@@ -61,7 +61,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "STEM TECH TALKS 2018"
-eventDate: "25/26 de Enero / CentreBIT"
+eventDate: "25/26 de Enero / Centre d'Art Ca n'Oliver"
 # typeoutTextValues: '"", "Menorca", "Women", "Tech", "Makers"'
 typeoutFallback: "Season"
 heroButtons:

@@ -1,9 +1,9 @@
-#-
-#  id: 1
-#  name: "Dra. Paz"
-#  surname: "Morillo"
-#  company: "Profesora de matemáticas en la ETSETB de la UPC"
-#  title: "Profesora de matemáticas en la ETSETB de la UPC"
-#  bio: ""
-#  thumbnailUrl: paz_morillo.jpg
-#  rockstar: true
+-
+  id: 1
+  name: "Miquel"
+  surname: "Gabarró"
+  company: "Creador Besuricata"
+  title: "Creador Besuricata"
+  bio: ""
+  thumbnailUrl: miquel_gabarro.jpg
+  rockstar: true
