@@ -60,8 +60,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "STEM TECH TALKS 2018"
-eventDate: "25/26 de Enero / Centre d'Art Ca n'Oliver"
+heroTitle: "STEM TALKS 2018"
+eventDate: "25/26 de Enero / Sala de Cultura Sa Nostra"
 # typeoutTextValues: '"", "Menorca", "Women", "Tech", "Makers"'
 typeoutFallback: "Season"
 heroButtons:
@@ -97,19 +97,19 @@ rockstarSpeakersButtonText: "Ver a las ponentes"
 
 # Location Block
 locationBlockTitle: "Localización"
-eventLocationName: "Centre d'Art Ca n'Oliver"
-eventLocationLink: "http://blog.fundaciobit.org/centre-bit-menorca/"
-eventStreetAddress: "Carrer d'Anuncivay, 2"
+eventLocationName: "Sala de Cultura Sa Nostra"
+eventLocationLink: "http://www.obrasocialsanostra.com/es/conoce/centro/id/2"
+eventStreetAddress: "Carrer d'Arraval, 32,"
 eventAddressLocality: "Mahón"
 eventAddressLocalityRegion: "Islas Baleares"
-eventPostalCode: "07702"
+eventPostalCode: "07701"
 eventAddressCountry: "Spain"
 eventStartTime: "2018-01-25T09:45"
 eventDoorTime: "09:45"
 eventEndTime: "2018-01-26T19:40"
-eventPlaceCoordinates: "39.8883301,4.2648562"
-mapCenterCoordinates: "39.8883301,4.2648562"
-mapMobileCenterCoordinates: "39.8883301,4.2648562"
+eventPlaceCoordinates: "39.7275621,4.7611481"
+mapCenterCoordinates: "39.7275621,4.7611481"
+mapMobileCenterCoordinates: "39.7275621,4.7611481"
 
 # Venue Block
 venueBlockTitle: "Venue"
