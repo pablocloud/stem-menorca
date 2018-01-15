@@ -32,7 +32,7 @@
 
 -
   date: "2018-01-26"
-  dateReadable: "26 de Enero"
+  dateReadable: "26 de Enero (Mañana)"
   tracks:
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
@@ -53,17 +53,17 @@
     }
     - {
         startTime: "11:30",
-        endTime: "12:30",
+        endTime: "12:15",
         sessionIds: [308]
     }
     - {
-        startTime: "12:30",
-        endTime: "13:30",
+        startTime: "12:15",
+        endTime: "13:00",
         sessionIds: [304]
     }
 -
   date: "2018-01-26"
-  dateReadable: "26 de Enero"
+  dateReadable: "26 de Enero (Tarde)"
   tracks:
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
