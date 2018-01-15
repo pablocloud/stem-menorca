@@ -43,3 +43,39 @@
   bio: ""
   thumbnailUrl: alex_escala.jpg
   rockstar: true
+-
+  id: 6
+  name: "Carlos"
+  surname: "Azaustre"
+  company: "Especialista en comunidades de desarrolladores"
+  title: "Especialista en comunidades de desarrolladores"
+  bio: ""
+  thumbnailUrl: carlos_azaustre.jpg
+  rockstar: true
+-
+  id: 7
+  name: "Nerea"
+  surname: "Luis"
+  company: "Investigadora en universidad Carlos III de Madrid"
+  title: "Investigadora en universidad Carlos III de Madrid"
+  bio: ""
+  thumbnailUrl: nerea_luis.jpg
+  rockstar: true
+-
+  id: 8
+  name: "José Javier"
+  surname: "Ramasco"
+  company: "Investigador en el IFISC de la UIB"
+  title: "Investigador en el IFISC de la UIB"
+  bio: ""
+  thumbnailUrl: jose_javier.jpg
+  rockstar: true
+-
+  id: 9
+  name: "Ángela"
+  surname: "Fabregues"
+  company: "Investigadora en IIIA-CSIC y primera Woman Techmaker de España"
+  title: "Investigadora en IIIA-CSIC y primera Woman Techmaker de España"
+  bio: ""
+  thumbnailUrl: angela_fabregues.jpg
+  rockstar: true
