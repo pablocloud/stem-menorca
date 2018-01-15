@@ -1,18 +1,65 @@
 -
   date: "2018-01-25"
-  dateReadable: "25 de Enero"
+  dateReadable: "25 de Ener"
   tracks:
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
     - {
-      	startTime: "18:00",
-      	endTime: "18:30",
-      	sessionIds: [305]
-      }
+      	startTime: "17:00",
+      	endTime: "17:30",
+      	sessionIds: [300]
+    }
     - {
-    	startTime: "19:00",
-    	endTime: "19:30",
-    	sessionIds: [302]
+    	startTime: "17:30",
+    	endTime: "18:00",
+    	sessionIds: [301]
+    }
+    - {
+       	startTime: "18:00",
+       	endTime: "18:30",
+       	sessionIds: [302]
+    }
+    - {
+       	startTime: "18:30",
+       	endTime: "19:00",
+       	sessionIds: [303]
+    }
+    - {
+       	startTime: "19:00",
+       	endTime: "19:30",
+       	sessionIds: [304]
+    }
+
+-
+  date: "2018-01-26"
+  dateReadable: "26 de Enero"
+  tracks:
+    - {title: "Ponente", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "09:45",
+    	endTime: "10:00",
+    	sessionIds: [300]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionIds: [306]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:30",
+        sessionIds: [308]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [304]
     }
 -
   date: "2018-01-26"
@@ -21,27 +68,22 @@
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:30",
-    	endTime: "11:00",
-    	sessionIds: [301]
-    }
-    - {
-        startTime: "11:30",
-        endTime: "12:30",
-        sessionIds: [304]
-    }
-    - {
-        startTime: "12:30",
-        endTime: "13:30",
-        sessionIds: [302]
+    	startTime: "17:30",
+    	endTime: "18:00",
+    	sessionIds: [309]
     }
     - {
         startTime: "18:00",
         endTime: "18:30",
-        sessionIds: [303]
+        sessionIds: [310]
+    }
+    - {
+        startTime: "18:30",
+        endTime: "19:00",
+        sessionIds: [311]
     }
     - {
         startTime: "19:00",
         endTime: "19:30",
-        sessionIds: [304]
+        sessionIds: [308]
     }
