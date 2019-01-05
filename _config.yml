@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "STEM Menorca 2018"
+title: "STEM Menorca 2019"
 email: "gdgmenorca@gmail.com"
 description: "STEM Talks"
 baseurl: "http://stem.gdgmenorca.com/"
@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "GDG Menorca"
 organizerAlternateName: "Google Developer Group Menorca"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "gdgmenorca@gmail.com"
+organizerEmail: "gdg.menorca@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.gdgmenorca.com/"
 
@@ -60,8 +60,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "STEM TALKS MENORCA 2018"
-eventDate: "25/26 de Enero / Sala de Cultura Sa Nostra"
+heroTitle: "STEM TALKS MENORCA 2019"
+eventDate: "24/25 de Enero / Centre Bit Alaior"
 # typeoutTextValues: '"", "Menorca", "Women", "Tech", "Makers"'
 typeoutFallback: "Season"
 heroButtons:
@@ -74,9 +74,9 @@ aboutBlock:
  # - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
-   - {text: '<iframe width="100%" height="315" src="https://www.youtube.com/embed/za_ZKM0kbPA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>'}
-   - {text: "<p>En este caso, queremos hacer un evento relacionado con STEM (Science, Technology, Engineering, Mathematics) con el objetivo de la divulgación científico-técnica. De esta manera, queremos ofrecer unas jornadas con la ciencia y tecnología como protagonista. Será un evento de dos días, 25 y 26 de enero con conferencias de grandes profesionales en la tecnología y la ciencia dirigidas a cualquier interesado con la materia.
-.</p><p>Es un evento totalmente gratuito que te acercará a cuestiones actuales de la tecnología dadas por grandes exponentes que vendrán de toda España y que son expertos en sus campos. Diferentes ponentes de instituciones tanto públicas como privadas nos llevarán un evento de calidad en Mahón, Menorca.
+   - {text: '<iframe width="100%" height="315" src="https://www.youtube.com/embed/HwYEjkoJKkk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>'}
+   - {text: "<p>En este caso, GDG Menorca trae un evento relacionado con STEM (Science, Technology, Engineering, Mathematics) con el objetivo de la divulgación científico-técnica. De esta manera, queremos ofrecer unas jornadas con la ciencia y tecnología como protagonista. Será un evento de dos días, 24 y 25 de enero con conferencias de grandes profesionales en la tecnología y la ciencia dirigidas a cualquier interesado con la materia.
+.</p><p>STEM Talks Menorca es un evento totalmente gratuito que te acercará a cuestiones actuales de la tecnología dadas por grandes exponentes que vendrán de toda España y que son expertos en sus campos. Temas como inteligencia artificial, computación cuántica, Data Science... Diferentes ponentes de instituciones tanto públicas como privadas nos llevarán un evento de calidad en Alaior, Menorca.
 </p>"}
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -97,16 +97,16 @@ rockstarSpeakersButtonText: "Ver a las ponentes"
 
 # Location Block
 locationBlockTitle: "Localización"
-eventLocationName: "Sala de Cultura Sa Nostra"
+eventLocationName: "Centre Bit Alaior"
 eventLocationLink: "http://www.obrasocialsanostra.com/es/conoce/centro/id/2"
-eventStreetAddress: "Carrer d'Arraval, 32,"
-eventAddressLocality: "Mahón"
+eventStreetAddress: "Avinguda des Camp Verd, P37-46,"
+eventAddressLocality: "Alaior"
 eventAddressLocalityRegion: "Islas Baleares"
-eventPostalCode: "07701"
+eventPostalCode: "07730"
 eventAddressCountry: "Spain"
-eventStartTime: "2018-01-25T09:45"
+eventStartTime: "2019-01-24T09:45"
 eventDoorTime: "09:45"
-eventEndTime: "2018-01-26T19:40"
+eventEndTime: "2019-01-25T19:40"
 eventPlaceCoordinates: "39.7275621,4.7611481"
 mapCenterCoordinates: "39.7275621,4.7611481"
 mapMobileCenterCoordinates: "39.7275621,4.7611481"
