@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "STEM Menorca 2019"
-email: "gdgmenorca@gmail.com"
+email: "gdg.menorca@gmail.com"
 description: "STEM Talks"
 baseurl: "http://stem.gdgmenorca.com/"
 url: "http://stem.gdgmenorca.com"
