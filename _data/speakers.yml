@@ -1,81 +1,90 @@
 -
   id: 1
-  name: "Miquel"
-  surname: "Gabarró"
-  company: "Creador Besuricata"
-  title: "Creador Besuricata"
+  name: "Andreu"
+  surname: "Ibañez"
+  company: "Co-organitzador del Google Developer Group Spain i Director dels Laboratoris TIC del Parc Científic de Lleida (Fundació bit)."
+  title: "Co-organitzador del Google Developer Group Spain i Director dels Laboratoris TIC del Parc Científic de Lleida (Fundació bit)."
   bio: ""
-  thumbnailUrl: miquel_gabarro.jpg
+  thumbnailUrl: andreu.jpg
   rockstar: true
 -
   id: 2
-  name: "Jaume"
-  surname: "Farrés"
-  company: "Decano de Facultat de Biociències de la UAB"
-  title: "Decano de Facultat de Biociències de la UAB"
+  name: "Pedro"
+  surname: "Meseguer"
+  company: "Cap de departament de lògica i investigador al Institut en Investigació d'Intel·ligència Artificial (IIIA-CSIC)."
+  title: "Cap de departament de lògica i investigador al Institut en Investigació d'Intel·ligència Artificial (IIIA-CSIC)."
   bio: ""
-  thumbnailUrl: jaume_farres.jpg
+  thumbnailUrl: pedroM.jpg
   rockstar: true
 -
   id: 3
-  name: "Guillaume"
-  surname: "Houzeaux"
-  company: "Manager del grupo de modelado físico y numérico el Centro Nacional de Supercomputación"
-  title: "Manager del grupo de modelado físico y numérico del Centro Nacional de Supercomputación"
+  name: "Isidre"
+  surname: "Gibert"
+  company: "Investigador Principal del Grup de Genètica Molecular i Patogènesi Bacteriana a l'Institut de Biotecnologia i de Biomedicina de la UAB i Vicedegà d'Economia i d'Infraestructures de la Facultat de Biociències de la UAB. (Consell Insular)"
+  title: "Investigador Principal del Grup de Genètica Molecular i Patogènesi Bacteriana a l'Institut de Biotecnologia i de Biomedicina de la UAB i Vicedegà d'Economia i d'Infraestructures de la Facultat de Biociències de la UAB. (Consell Insular)"
   bio: ""
-  thumbnailUrl: guillaume_houzeaux.jpg
+  thumbnailUrl: Isidre_Gibert_600x600.jpeg
   rockstar: true
 -
   id: 4
-  name: "Núria"
-  surname: "Castell"
-  company: "Exdecana de la Facultat de Informática de la UPC"
-  title: "Exdecana de la Facultat de Informática de la UPC"
+  name: "Artur"
+  surname: "Garcia"
+  company: "Investigador postdoctoral al Barcelona Supercomputing Center (Fundació Bit)."
+  title: "Investigador postdoctoral al Barcelona Supercomputing Center (Fundació Bit)."
   bio: ""
-  thumbnailUrl: nuria_castell.jpg
+  thumbnailUrl: artur.jpeg
   rockstar: true
 -
   id: 5
-  name: "Alex"
-  surname: "Escala Ribas"
-  company: "Kernel Analytics"
-  title: "Kernel Analytics"
+  name: "Marta"
+  surname: "Fairén"
+  company: "Investigadora al Grup de Recerca en Visualització, Realitat Virtual i Interacció Gràfica (ViRVIG) i professora associada a la Universitat Politècnica de Catalunya. (Icono i FIB)"
+  title: "Investigadora al Grup de Recerca en Visualització, Realitat Virtual i Interacció Gràfica (ViRVIG) i professora associada a la Universitat Politècnica de Catalunya. (Icono i FIB)"
   bio: ""
-  thumbnailUrl: alex_escala.jpg
+  thumbnailUrl: martaF.jpeg
   rockstar: true
 -
   id: 6
-  name: "Carlos"
-  surname: "Azaustre"
-  company: "Especialista en comunidades de desarrolladores"
-  title: "Especialista en comunidades de desarrolladores"
+  name: "Pedro"
+  surname: "Bibiloni"
+  company: "Investigador al grup d'investigació Soft Computing, Processament d'Imatges i Agregació (SCOPIA) de la Universitat de les Illes Balears (UIB)."
+  title: "Investigador al grup d'investigació Soft Computing, Processament d'Imatges i Agregació (SCOPIA) de la Universitat de les Illes Balears (UIB)."
   bio: ""
-  thumbnailUrl: carlos_azaustre.jpg
+  thumbnailUrl: 2018 Pedro Bibiloni 1024x1024.png
   rockstar: true
 -
   id: 7
-  name: "Nerea"
-  surname: "Luis"
-  company: "Investigadora en universidad Carlos III de Madrid"
-  title: "Investigadora en universidad Carlos III de Madrid"
+  name: "Bea"
+  surname: "Hernández"
+  company: "Data scientist a DATMEAN i organitzadora de R-Ladies Madrid, una comunitat de codi obert on dones ens recolzem i ens ajudem a créixer dins de la comunitat de R. (Consell Insular)"
+  title: "Data scientist a DATMEAN i organitzadora de R-Ladies Madrid, una comunitat de codi obert on dones ens recolzem i ens ajudem a créixer dins de la comunitat de R. (Consell Insular)"
   bio: ""
-  thumbnailUrl: nerea_luis.jpg
+  thumbnailUrl: Bea.jpg
   rockstar: true
 -
   id: 8
-  name: "José Javier"
-  surname: "Ramasco"
-  company: "Investigador en el IFISC de la UIB"
-  title: "Investigador en el IFISC de la UIB"
+  name: "Neil"
+  surname: "Harbisson"
+  company: "Artista cyborg, co-fundador de les fundacions Cyborg Fundation i The Transpecies Society. Primer Cyborg reconegut per un govern en tot el món.(Fundació bit)."
+  title: "Artista cyborg, co-fundador de les fundacions Cyborg Fundation i The Transpecies Society. Primer Cyborg reconegut per un govern en tot el món.(Fundació bit)."
   bio: ""
-  thumbnailUrl: jose_javier.jpg
+  thumbnailUrl: Copia de NeilHarbisson © Hector Adalid.jpg
   rockstar: true
 -
   id: 9
-  name: "Ángela"
-  surname: "Fabregues"
-  company: "Investigadora en IIIA-CSIC y primera Woman Techmaker de España"
-  title: "Investigadora en IIIA-CSIC y primera Woman Techmaker de España"
+  name: "Bel"
+  surname: "Llodrà"
+  company: "Coordinadora de l’àrea de Cibersocietat de la Fundació Bit. (Fundació bit)"
+  title: "Coordinadora de l’àrea de Cibersocietat de la Fundació Bit. (Fundació bit)"
   bio: ""
-  thumbnailUrl: angela_fabregues.jpg
+  thumbnailUrl: bellodra.jpg
+  rockstar: true
+-
+  id: 10
+  name: "Paloma"
+  surname: "Domingo"
+  company: "Directora general de la Fundación Española para la Ciencia y Tecnología (FECYT) (Fundació Bit)"
+  title: "Directora general de la Fundación Española para la Ciencia y Tecnología (FECYT) (Fundació Bit)"
+  bio: ""
+  thumbnailUrl: foto paloma.jpg
   rockstar: true
