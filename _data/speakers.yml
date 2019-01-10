@@ -2,8 +2,8 @@
   id: 1
   name: "Andreu"
   surname: "Ibañez"
-  company: "Co-organitzador del Google Developer Group Spain i Director dels Laboratoris TIC del Parc Científic de Lleida (Fundació bit)."
-  title: "Co-organitzador del Google Developer Group Spain i Director dels Laboratoris TIC del Parc Científic de Lleida (Fundació bit)."
+  company: "Co-organitzador del Google Developer Group Spain i Director dels Laboratoris TIC del Parc Científic de Lleida."
+  title: "Co-organitzador del Google Developer Group Spain i Director dels Laboratoris TIC del Parc Científic de Lleida."
   bio: ""
   thumbnailUrl: andreu.jpg
   rockstar: true
@@ -20,8 +20,8 @@
   id: 3
   name: "Isidre"
   surname: "Gibert"
-  company: "Investigador Principal del Grup de Genètica Molecular i Patogènesi Bacteriana a l'Institut de Biotecnologia i de Biomedicina de la UAB i Vicedegà d'Economia i d'Infraestructures de la Facultat de Biociències de la UAB. (Consell Insular)"
-  title: "Investigador Principal del Grup de Genètica Molecular i Patogènesi Bacteriana a l'Institut de Biotecnologia i de Biomedicina de la UAB i Vicedegà d'Economia i d'Infraestructures de la Facultat de Biociències de la UAB. (Consell Insular)"
+  company: "Investigador Principal del Grup de Genètica Molecular i Patogènesi Bacteriana a l'Institut de Biotecnologia i de Biomedicina de la UAB i Vicedegà d'Economia i d'Infraestructures de la Facultat de Biociències de la UAB."
+  title: "Investigador Principal del Grup de Genètica Molecular i Patogènesi Bacteriana a l'Institut de Biotecnologia i de Biomedicina de la UAB i Vicedegà d'Economia i d'Infraestructures de la Facultat de Biociències de la UAB."
   bio: ""
   thumbnailUrl: Isidre_Gibert_600x600.jpeg
   rockstar: true
@@ -29,8 +29,8 @@
   id: 4
   name: "Artur"
   surname: "Garcia"
-  company: "Investigador postdoctoral al Barcelona Supercomputing Center (Fundació Bit)."
-  title: "Investigador postdoctoral al Barcelona Supercomputing Center (Fundació Bit)."
+  company: "Investigador postdoctoral al Barcelona Supercomputing Center."
+  title: "Investigador postdoctoral al Barcelona Supercomputing Center."
   bio: ""
   thumbnailUrl: artur.jpeg
   rockstar: true
@@ -38,8 +38,8 @@
   id: 5
   name: "Marta"
   surname: "Fairén"
-  company: "Investigadora al Grup de Recerca en Visualització, Realitat Virtual i Interacció Gràfica (ViRVIG) i professora associada a la Universitat Politècnica de Catalunya. (Icono i FIB)"
-  title: "Investigadora al Grup de Recerca en Visualització, Realitat Virtual i Interacció Gràfica (ViRVIG) i professora associada a la Universitat Politècnica de Catalunya. (Icono i FIB)"
+  company: "Investigadora al Grup de Recerca en Visualització, Realitat Virtual i Interacció Gràfica (ViRVIG) i professora associada a la Universitat Politècnica de Catalunya."
+  title: "Investigadora al Grup de Recerca en Visualització, Realitat Virtual i Interacció Gràfica (ViRVIG) i professora associada a la Universitat Politècnica de Catalunya."
   bio: ""
   thumbnailUrl: martaF.jpg
   rockstar: true
@@ -47,8 +47,8 @@
   id: 6
   name: "Pedro"
   surname: "Bibiloni"
-  company: "Investigador al grup d'investigació Soft Computing, Processament d'Imatges i Agregació (SCOPIA) de la Universitat de les Illes Balears (UIB)."
-  title: "Investigador al grup d'investigació Soft Computing, Processament d'Imatges i Agregació (SCOPIA) de la Universitat de les Illes Balears (UIB)."
+  company: "Investigador al grup d'investigació Soft Computing, Processament d'Imatges i Agregació (SCOPIA) de la Universitat de les Illes Balears."
+  title: "Investigador al grup d'investigació Soft Computing, Processament d'Imatges i Agregació (SCOPIA) de la Universitat de les Illes Balears."
   bio: ""
   thumbnailUrl: bibiloni.png
   rockstar: true
@@ -56,8 +56,8 @@
   id: 7
   name: "Bea"
   surname: "Hernández"
-  company: "Data scientist a DATMEAN i organitzadora de R-Ladies Madrid, una comunitat de codi obert on dones ens recolzem i ens ajudem a créixer dins de la comunitat de R. (Consell Insular)"
-  title: "Data scientist a DATMEAN i organitzadora de R-Ladies Madrid, una comunitat de codi obert on dones ens recolzem i ens ajudem a créixer dins de la comunitat de R. (Consell Insular)"
+  company: "Data scientist a DATMEAN i organitzadora de R-Ladies Madrid, una comunitat de codi obert on dones ens recolzem i ens ajudem a créixer dins de la comunitat de R."
+  title: "Data scientist a DATMEAN i organitzadora de R-Ladies Madrid, una comunitat de codi obert on dones ens recolzem i ens ajudem a créixer dins de la comunitat de R."
   bio: ""
   thumbnailUrl: Bea.jpg
   rockstar: true
@@ -65,8 +65,8 @@
   id: 8
   name: "Neil"
   surname: "Harbisson"
-  company: "Artista cyborg, co-fundador de les fundacions Cyborg Fundation i The Transpecies Society. Primer Cyborg reconegut per un govern en tot el món.(Fundació bit)."
-  title: "Artista cyborg, co-fundador de les fundacions Cyborg Fundation i The Transpecies Society. Primer Cyborg reconegut per un govern en tot el món.(Fundació bit)."
+  company: "Artista cyborg, co-fundador de les fundacions Cyborg Fundation i The Transpecies Society. Primer Cyborg reconegut per un govern en tot el món."
+  title: "Artista cyborg, co-fundador de les fundacions Cyborg Fundation i The Transpecies Society. Primer Cyborg reconegut per un govern en tot el món."
   bio: ""
   thumbnailUrl: NeilHarbisson.jpg
   rockstar: true
@@ -74,8 +74,8 @@
   id: 9
   name: "Bel"
   surname: "Llodrà"
-  company: "Coordinadora de l’àrea de Cibersocietat de la Fundació Bit. (Fundació bit)"
-  title: "Coordinadora de l’àrea de Cibersocietat de la Fundació Bit. (Fundació bit)"
+  company: "Coordinadora de l’àrea de Cibersocietat de la Fundació Bit"
+  title: "Coordinadora de l’àrea de Cibersocietat de la Fundació Bit"
   bio: ""
   thumbnailUrl: belllodra.jpg
   rockstar: true
@@ -83,8 +83,8 @@
   id: 10
   name: "Paloma"
   surname: "Domingo"
-  company: "Directora general de la Fundación Española para la Ciencia y Tecnología (FECYT) (Fundació Bit)"
-  title: "Directora general de la Fundación Española para la Ciencia y Tecnología (FECYT) (Fundació Bit)"
+  company: "Directora general de la Fundación Española para la Ciencia y Tecnología (FECYT)"
+  title: "Directora general de la Fundación Española para la Ciencia y Tecnología (FECYT)"
   bio: ""
   thumbnailUrl: paloma.jpg
   rockstar: true
