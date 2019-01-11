@@ -2,19 +2,45 @@
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <!--<h3>{{ site.organizersTitle }}</h3>
-            {% for organizer in site.data.organizers %}
-            <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
-                {% for element in organizer.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                <li>
+                    <a href="http://blog.fundaciobit.org/es/centre-bit-menorca/" target="_blank">
+                        <img src="{{ site.baseurl }}/img/partners/centrebit.png" alt="centrebit">
                     </a>
                 </li>
-                {% endfor %}
             </ul>
-            {% endfor %}-->
+            <p>
+                El Centre Bit de Menorca es un punto de atracción del talento innovador donde se pretende aglutinar empresas y emprendedores de base tecnológica.
+                A través de sus instalaciones ofrecen espacios y servicios de asesoramiento y apoyo tanto a emprendedores TIC como empresas de la isla en la puesta
+                en funcionamiento de iniciativas de RDI, colaboración internacional, y fomento e impulso de la innovación.
+            </p>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>Coorganizadores</h3>
+            <ul class="list-inline">
+                <li>
+                    <a href="http://blog.fundaciobit.org/es/centre-bit-menorca" target="_blank">
+                        <img src="{{ site.baseurl }}/img/partners/centrebit.png" alt="centrebit">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.cime.es" target="_blank">
+                        <img src="{{ site.baseurl }}/img/partners/cime.png" alt="cime">
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>Colaboradores</h3>
+            <ul class="list-inline">
+                <li>
+                    <a href="https://cadenaser.com" target="_blank">
+                        <img src="{{ site.baseurl }}/img/partners/cadenaser.jpg" alt="cadenaser">
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <!--<h5>{{ partner.group }}</h5>-->
