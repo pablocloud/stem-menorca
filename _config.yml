@@ -48,6 +48,7 @@ navigationLinks:
    - {permalink: "#schedule", text: "Agenda"}
    - {permalink: "#location-map", text: "Localización"}
    - {permalink: "#gdg-menorca", text: "GDG Menorca"}
+   - {permalink: "#cbm", text: "Centre Bit Menorca"}
    - {permalink: "#partners", text: "Colaboradores"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/team/", text: "Team"}

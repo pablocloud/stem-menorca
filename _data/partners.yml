@@ -1,6 +1,7 @@
 - 
   group: "General sponsor"
   elements:
+    - {name: "FIB", description: "FIB", link: "https://www.fib.upc.edu", imageUrl: "fib.gif"}
     - {name: "Icono", description: "Icono", link: "http://www.icono.cat", imageUrl: "icono.jpg"}
     - {name: "UIB", description: "UIB", link: "http://www.uib.es/es", imageUrl: "uib.png"}
     - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.png"}
