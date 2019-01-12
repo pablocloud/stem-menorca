@@ -48,47 +48,47 @@
     place: ""
     service: false
     description: ""
--   id: 404
+-   id: 405
     title: "Bea Hernández"
     place: ""
     service: false
     description: "Que es R-Ladies."
--   id: 405
+-   id: 406
     title: "Andreu Ibañez"
     place: ""
     service: false
     description: "La resistencia es inútil, la Intel.ligencia Artificial ens rodeja i es imparable."
--   id: 406
+-   id: 407
     title: "Mesa redonda: Bel LLodrà, Neil Harbisson, Isidre GIbert, Pedro Meseguer."
     place: ""
     service: false
     description: ""
--   id: 407
+-   id: 408
     title: "Pedro Bibiloni"
     place: ""
     service: false
     description: "Matemáticas en el Hospital."
--   id: 408
+-   id: 409
     title: "Pedro Meseguer"
     place: ""
     service: false
     description: "Éxitos de la Inteligencia Artificial."
--   id: 409
+-   id: 410
     title: "Neil Harbisson"
     place: ""
     service: false
     description: "EL RENACIMIENTO DE NUESTRA ESPECIE."
--   id: 410
+-   id: 411
     title: "Descanso"
     place: ""
     service: false
     description: ""
--   id: 411
+-   id: 412
     title: "Artur Garcia"
     place: ""
     service: false
     description: "Què és la computació quàntica?"
--   id: 412
+-   id: 413
     title: "Paloma Domingo"
     place: ""
     service: false

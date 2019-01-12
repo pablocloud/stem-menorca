@@ -61,17 +61,17 @@
         - {
             startTime: "11:40",
             endTime: "12:10",
-            sessionIds: [404]
+            sessionIds: [405]
         }
         - {
             startTime: "12:10",
             endTime: "12:40",
-            sessionIds: [405]
+            sessionIds: [406]
         }
         - {
             startTime: "12:40",
             endTime: "13:20",
-            sessionIds: [406]
+            sessionIds: [407]
         }
 -   date: "2019-01-25"
     dateReadable: "25 de Enero (Tarde)"
@@ -81,31 +81,31 @@
         - {
             startTime: "17:00",
             endTime: "17:30",
-            sessionIds: [407]
+            sessionIds: [408]
         }
         - {
             startTime: "17:30",
             endTime: "18:00",
-            sessionIds: [408]
+            sessionIds: [409]
         }
         - {
             startTime: "18:00",
             endTime: "18:30",
-            sessionIds: [409]
+            sessionIds: [410]
         }
         - {
             startTime: "18:30",
             endTime: "19:00",
-            sessionIds: [410]
+            sessionIds: [411]
         }
         - {
             startTime: "19:00",
             endTime: "19:30",
-            sessionIds: [411]
+            sessionIds: [412]
         }
         - {
             startTime: "19:30",
             endTime: "20:00",
-            sessionIds: [412]
+            sessionIds: [413]
         }
 
