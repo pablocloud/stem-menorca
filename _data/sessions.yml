@@ -1,114 +1,95 @@
--
-  id: 300
-  title: "Apertura GDG Menorca"
-  place: ""
-  service: false
-  description: ""
--
-  id: 301
-  title: "Andreu Ibañez"
-  place: ""
-  service: false
-  description: "Aplicant el Bluetooth al turisme, comerç i altres verticals."
--
-  id: 302
-  title: "Isidre Gibert"
-  place: ""
-  service: false
-  description: "Sortides dels graus de la Facultat de Biociencies de la UAB."
--
-  id: 303
-  title: "Descanso"
-  place: ""
-  service: false
-  description: ""
--
-  id: 304
-  title: "Bea Hernández"
-  place: ""
-  service: false
-  description: "Dibujando la realidad con matemáticas."
--
-  id: 305
-  title: "Marta Fairén"
-  place: ""
-  service: false
-  description: "Sortides dels graus de la Facultat d'Informàtica de Barcelona de la UPC"
--
-  id: 400
-  title: "Apertura GDG Menorca"
-  place: ""
-  service: false
-  description: ""
--
-  id: 401
-  title: "Isidre Gibert"
-  place: ""
-  service: false
-  description: "Bioinformàtica: del codi genètic al laboratori per resoldre reptes de salut."
--
-  id: 402
-  title: "Marta Fairén"
-  place: ""
-  service: false
-  description: "La Realitat Virtual i les seves aplicacions: present o futur?"
--
-  id: 403
-  title: "Descanso"
-  place: ""
-  service: false
-  description: ""
--
-  id: 404
-  title: "Bea Hernández"
-  place: ""
-  service: false
-  description: "Que es R-Ladies."
--
-  id: 405
-  title: "Andreu Ibañez"
-  place: ""
-  service: false
-  description: "La resistencia es inútil, la Intel.ligencia Artificial ens rodeja i es imparable."
--
-  id: 406
-  title: "Mesa redonda: Bel LLodrà, Neil Harbisson, Isidre GIbert, Pedro Meseguer."
-  place: ""
-  service: false
-  description: ""
--
-  id: 407
-  title: "Pedro Bibiloni"
-  place: ""
-  service: false
-  description: "Matemáticas en el Hospital."
--
-  id: 408
-  title: "Pedro Meseguer"
-  place: ""
-  service: false
-  description: "Éxitos de la Inteligencia Artificial."
--
-  id: 409
-  title: "Neil Harbisson"
-  place: ""
-  service: false
-  description: "EL RENACIMIENTO DE NUESTRA ESPECIE."
--
-  id: 410
-  title: "Descanso"
-  place: ""
-  service: false
-  description: ""
--
-  id: 411
-  title: "Artur Garcia"
-  place: ""
-  service: false
-  description: "Què és la computació quàntica?"
--
-  id: 412
-  title: "Paloma Domingo"
-  place: ""
-  service: false
-  description: "Retos de género en Ciencia y Tecnología."
+-   id: 300
+    title: "Apertura GDG Menorca"
+    place: ""
+    service: false
+    description: ""
+-   id: 301
+    title: "Andreu Ibañez"
+    place: ""
+    service: false
+    description: "Aplicant el Bluetooth al turisme, comerç i altres verticals."
+-   id: 302
+    title: "Isidre Gibert"
+    place: ""
+    service: false
+    description: "Sortides dels graus de la Facultat de Biociencies de la UAB."
+-   id: 303
+    title: "Descanso"
+    place: ""
+    service: false
+    description: ""
+-   id: 304
+    title: "Bea Hernández"
+    place: ""
+    service: false
+    description: "Dibujando la realidad con matemáticas."
+-   id: 305
+    title: "Marta Fairén"
+    place: ""
+    service: false
+    description: "Sortides dels graus de la Facultat d'Informàtica de Barcelona de la UPC"
+-   id: 400
+    title: "Apertura GDG Menorca"
+    place: ""
+    service: false
+    description: ""
+-   id: 401
+    title: "Isidre Gibert"
+    place: ""
+    service: false
+    description: "Bioinformàtica: del codi genètic al laboratori per resoldre reptes de salut."
+-   id: 402
+    title: "Marta Fairén"
+    place: ""
+    service: false
+    description: "La Realitat Virtual i les seves aplicacions: present o futur?"
+-   id: 403
+    title: "Descanso"
+    place: ""
+    service: false
+    description: ""
+-   id: 404
+    title: "Bea Hernández"
+    place: ""
+    service: false
+    description: "Que es R-Ladies."
+-   id: 405
+    title: "Andreu Ibañez"
+    place: ""
+    service: false
+    description: "La resistencia es inútil, la Intel.ligencia Artificial ens rodeja i es imparable."
+-   id: 406
+    title: "Mesa redonda: Bel LLodrà, Neil Harbisson, Isidre GIbert, Pedro Meseguer."
+    place: ""
+    service: false
+    description: ""
+-   id: 407
+    title: "Pedro Bibiloni"
+    place: ""
+    service: false
+    description: "Matemáticas en el Hospital."
+-   id: 408
+    title: "Pedro Meseguer"
+    place: ""
+    service: false
+    description: "Éxitos de la Inteligencia Artificial."
+-   id: 409
+    title: "Neil Harbisson"
+    place: ""
+    service: false
+    description: "EL RENACIMIENTO DE NUESTRA ESPECIE."
+-   id: 410
+    title: "Descanso"
+    place: ""
+    service: false
+    description: ""
+-   id: 411
+    title: "Artur Garcia"
+    place: ""
+    service: false
+    description: "Què és la computació quàntica?"
+-   id: 412
+    title: "Paloma Domingo"
+    place: ""
+    service: false
+    description: "Retos de género en Ciencia y Tecnología."
