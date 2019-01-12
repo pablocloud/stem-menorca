@@ -6,67 +6,109 @@
   description: ""
 -
   id: 301
-  title: "Carlos Azaustre"
+  title: "Andreu Ibañez"
   place: ""
   service: false
-  description: "Especialista en Comunidades de desarrolladores"
+  description: "Aplicant el Bluetooth al turisme, comerç i altres verticals."
 -
   id: 302
-  title: "Alex Escala Ribas"
+  title: "Isidre Gibert"
   place: ""
   service: false
-  description: "Kernel Analytics"
+  description: "Bioinformàtica: del codi genètic al laboratori per resoldre reptes de salut."
 -
   id: 303
-  title: "Àngela Fabregues"
-  place: ""
-  service: false
-  description: "Doctora en IA"
--
-  id: 304
-  title: "Jaume Farrés"
-  place: ""
-  service: false
-  description: "Biociències UAB"
--
-  id: 305
-  title: "Alex Escala Ribas"
-  place: ""
-  service: false
-  description: "Kernel Analytics"
--
-  id: 306
-  title: "Carlos y Nerea"
+  title: "Descanso"
   place: ""
   service: false
   description: ""
 -
-  id: 307
-  title: "Miquel Gabarró"
+  id: 304
+  title: "Bea Hernández"
   place: ""
   service: false
-  description: "Besuricata"
+  description: "Dibujando la realidad con matemáticas."
 -
-  id: 308
-  title: "Nuria Castell"
+  id: 305
+  title: "Marta Fairén"
   place: ""
   service: false
-  description: "UPC"
+  description: "La Realitat Virtual i les seves aplicacions: present o futur?"
 -
-  id: 309
-  title: "José Javier Ramasco"
+  id: 400
+  title: "AperturaGDG Menorca"
   place: ""
   service: false
-  description: "Investigación Big Data"
+  description: ""
 -
-  id: 310
-  title: "Guillaume Houzeaux"
+  id: 401
+  title: "Isidre Gibert"
   place: ""
   service: false
-  description: "Centro Nacional de Supercomputación"
+  description: "Bioinformàtica: del codi genètic al laboratori per resoldre reptes de salut."
 -
-  id: 311
-  title: "Nerea Luis"
+  id: 402
+  title: "Marta Fairén"
   place: ""
   service: false
-  description: "Investigadora en universidad Carlos III de Madrid"
+  description: "La Realitat Virtual i les seves aplicacions: present o futur?"
+-
+  id: 403
+  title: "Descanso"
+  place: ""
+  service: false
+  description: ""
+-
+  id: 404
+  title: "Bea Hernández"
+  place: ""
+  service: false
+  description: "¡Que es R-Ladies?"
+-
+  id: 405
+  title: "Andreu Ibañez"
+  place: ""
+  service: false
+  description: "La resistencia es inútil, la Intel.ligencia Artificial ens rodeja i es imparable."
+-
+  id: 406
+  title: "Mesa redonda: Bel LLodrà, Neil Harbisson, Isidre GIbert, Pedro Meseguer."
+  place: ""
+  service: false
+  description: ""
+-
+  id: 407
+  title: "Pedro Bibiloni"
+  place: ""
+  service: false
+  description: "Matemáticas en el Hospital."
+-
+  id: 408
+  title: "Pedro Meseguer"
+  place: ""
+  service: false
+  description: "Éxitos de la Inteligencia Artificial."
+-
+  id: 409
+  title: "Neil Harbisson"
+  place: ""
+  service: false
+  description: "EL RENACIMIENTO DE NUESTRA ESPECIE."
+-
+  id: 410
+  title: "Descanso"
+  place: ""
+  service: false
+  description: ""
+-
+  id: 411
+  title: "Artur Garcia"
+  place: ""
+  service: false
+  description: "Què és la computació quàntica?"
+-
+  id: 412
+  title: "Paloma Domingo"
+  place: ""
+  service: false
+  description: "Retos de género en Ciencia y Tecnología."

@@ -1,89 +1,106 @@
--
-  date: "2018-01-25"
-  dateReadable: "25 de Enero"
-  tracks:
-    - {title: "Ponente", color: "#90be4e"}
-  timeslots:
-    - {
-      	startTime: "17:00",
-      	endTime: "17:30",
-      	sessionIds: [300]
-    }
-    - {
-    	startTime: "17:30",
-    	endTime: "18:00",
-    	sessionIds: [301]
-    }
-    - {
-       	startTime: "18:00",
-       	endTime: "18:30",
-       	sessionIds: [302]
-    }
-    - {
-       	startTime: "18:30",
-       	endTime: "19:00",
-       	sessionIds: [303]
-    }
-    - {
-       	startTime: "19:00",
-       	endTime: "19:30",
-       	sessionIds: [304]
-    }
+-   date: "2019-01-24"
+    dateReadable: "24 de Enero"
+    tracks:
+        - {title: "Ponente", color: "#90be4e"}
+    timeslots:
+        - {
+            startTime: "17:00",
+            endTime: "17:30",
+            sessionIds: [300]
+        }
+        - {
+            startTime: "17:30",
+            endTime: "18:00",
+            sessionIds: [301]
+        }
+        - {
+            startTime: "18:00",
+            endTime: "18:30",
+            sessionIds: [302]
+        }
+        - {
+            startTime: "18:30",
+            endTime: "19:00",
+            sessionIds: [303]
+        }
+        - {
+            startTime: "19:00",
+            endTime: "19:30",
+            sessionIds: [304]
+        }
+        - {
+            startTime: "19:30",
+            endTime: "20:00",
+            sessionIds: [305]
+        }
 
--
-  date: "2018-01-26"
-  dateReadable: "26 de Enero (Mañana)"
-  tracks:
-    - {title: "Ponente", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "09:45",
-    	endTime: "10:00",
-    	sessionIds: [300]
-    }
-    - {
-        startTime: "10:00",
-        endTime: "10:30",
-        sessionIds: [306]
-    }
-    - {
-        startTime: "10:30",
-        endTime: "11:00",
-        sessionIds: [307]
-    }
-    - {
-        startTime: "11:30",
-        endTime: "12:15",
-        sessionIds: [308]
-    }
-    - {
-        startTime: "12:15",
-        endTime: "13:00",
-        sessionIds: [304]
-    }
--
-  date: "2018-01-26"
-  dateReadable: "26 de Enero (Tarde)"
-  tracks:
-    - {title: "Ponente", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "17:30",
-    	endTime: "18:00",
-    	sessionIds: [309]
-    }
-    - {
-        startTime: "18:00",
-        endTime: "18:30",
-        sessionIds: [310]
-    }
-    - {
-        startTime: "18:30",
-        endTime: "19:00",
-        sessionIds: [311]
-    }
-    - {
-        startTime: "19:00",
-        endTime: "19:30",
-        sessionIds: [308]
-    }
+-   date: "2019-01-25"
+    dateReadable: "25 de Enero"
+    tracks:
+        - {title: "Ponente", color: "#90be4e"}
+    timeslots:
+        - {
+            startTime: "09:30",
+            endTime: "10:00",
+            sessionIds: [400]
+        }
+        - {
+            startTime: "10:00",
+            endTime: "10:40",
+            sessionIds: [401]
+        }
+        - {
+            startTime: "10:40",
+            endTime: "11:20",
+            sessionIds: [402]
+        }
+        - {
+            startTime: "11:20",
+            endTime: "11:40",
+            sessionIds: [403]
+        }
+        - {
+            startTime: "11:40",
+            endTime: "12:10",
+            sessionIds: [404]
+        }
+        - {
+            startTime: "12:10",
+            endTime: "12:40",
+            sessionIds: [405]
+        }
+        - {
+            startTime: "12:40",
+            endTime: "13:20",
+            sessionIds: [406]
+        }
+        - {
+            startTime: "17:00",
+            endTime: "17:30",
+            sessionIds: [407]
+        }
+        - {
+            startTime: "17:30",
+            endTime: "18:00",
+            sessionIds: [408]
+        }
+        - {
+            startTime: "18:00",
+            endTime: "18:30",
+            sessionIds: [409]
+        }
+        - {
+            startTime: "18:30",
+            endTime: "19:00",
+            sessionIds: [410]
+        }
+        - {
+            startTime: "19:00",
+            endTime: "19:30",
+            sessionIds: [411]
+        }
+        - {
+            startTime: "19:30",
+            endTime: "20:00",
+            sessionIds: [412]
+        }
