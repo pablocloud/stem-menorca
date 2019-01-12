@@ -34,7 +34,7 @@
             sessionIds: [305]
         }
 -   date: "2019-01-25"
-    dateReadable: "25 de Enero"
+    dateReadable: "25 de Enero (Mañana)"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
     timeslots:
@@ -73,6 +73,11 @@
             endTime: "13:20",
             sessionIds: [406]
         }
+-   date: "2019-01-25"
+    dateReadable: "25 de Enero (Tarde)"
+    tracks:
+        - {title: "Ponente", color: "#90be4e"}
+    timeslots:
         - {
             startTime: "17:00",
             endTime: "17:30",
@@ -103,3 +108,4 @@
             endTime: "20:00",
             sessionIds: [412]
         }
+
