@@ -12,7 +12,7 @@
     title: "Isidre Gibert"
     place: ""
     service: false
-    description: "Sortides dels graus de la Facultat de Biociencies de la UAB."
+    description: "Bioinformàtica: del codi genètic al laboratori per resoldre reptes de salut."
 -   id: 303
     title: "Descanso"
     place: ""
@@ -27,7 +27,7 @@
     title: "Marta Fairén"
     place: ""
     service: false
-    description: "Sortides dels graus de la Facultat d'Informàtica de Barcelona de la UPC"
+    description: "La Realitat Virtual i les seves aplicacions: present o futur?"
 -   id: 400
     title: "Apertura GDG Menorca"
     place: ""
@@ -37,12 +37,12 @@
     title: "Isidre Gibert"
     place: ""
     service: false
-    description: "Bioinformàtica: del codi genètic al laboratori per resoldre reptes de salut."
+    description: "Sortides dels graus de la Facultat de Biociencies de la UAB."
 -   id: 402
     title: "Marta Fairén"
     place: ""
     service: false
-    description: "La Realitat Virtual i les seves aplicacions: present o futur?"
+    description: "Sortides dels graus de la Facultat d'Informàtica de Barcelona de la UPC."
 -   id: 403
     title: "Descanso"
     place: ""
