@@ -50,7 +50,7 @@ navigationLinks:
    - {permalink: "#gdg-menorca", text: "GDG Menorca"}
    - {permalink: "#cbm", text: "Centre Bit Menorca"}
    - {permalink: "#partners", text: "Colaboradores"}
- # - {permalink: "/schedule/", text: "Schedule"}
+   - {permalink: "/live/", text: "Evento en directo"}
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
