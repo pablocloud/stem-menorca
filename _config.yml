@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "STEM Menorca 2019"
+title: "STEM Menorca 2020"
 email: "gdg.menorca@gmail.com"
 description: "STEM Talks"
 baseurl: "http://stem.gdgmenorca.com/"
@@ -61,8 +61,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "STEM TALKS MENORCA 2019"
-eventDate: "24/25 de Enero / Centre Bit Alaior"
+heroTitle: "STEM TALKS MENORCA 2020"
+eventDate: "23/24 de Enero / Centre Bit Alaior"
 # typeoutTextValues: '"", "Menorca", "Women", "Tech", "Makers"'
 typeoutFallback: "Season"
 heroButtons:
@@ -105,9 +105,9 @@ eventAddressLocality: "Alaior"
 eventAddressLocalityRegion: "Islas Baleares"
 eventPostalCode: "07730"
 eventAddressCountry: "Spain"
-eventStartTime: "2019-01-24T09:45"
-eventDoorTime: "09:45"
-eventEndTime: "2019-01-25T19:40"
+eventStartTime: "2019-01-23T09:30"
+eventDoorTime: "09:30"
+eventEndTime: "2019-01-24T20:10"
 eventPlaceCoordinates: "39.7275621,4.7611481"
 mapCenterCoordinates: "39.7275621,4.7611481"
 mapMobileCenterCoordinates: "39.7275621,4.7611481"
