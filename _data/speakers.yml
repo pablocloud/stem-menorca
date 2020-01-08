@@ -1,9 +1,29 @@
-#-
-#  id: 1
-#  name: "Andreu"
-#  surname: "Ibañez"
-#  company: "Co-organitzador del Google Developer Group Spain i Director dels Laboratoris TIC del Parc Científic de Lleida."
-#  title: "Co-organitzador del Google Developer Group Spain i Director dels Laboratoris TIC del Parc Científic de Lleida."
-#  bio: ""
-#  thumbnailUrl: andreu.jpg
-#  rockstar: true
+-   id:           1
+    name:         "Inés"
+    surname:      "Huertas"
+    title:        "CDO at TheSideWaysProject"
+    bio:          ""
+    thumbnailUrl: ines.jpg
+    rockstar:     true
+-   id:           2
+    name:         "Verónica"
+    surname:      "Rodríguez"
+    title:        "Especialista en Realidad Virtual, Transmedia Storytelling y Branded Content organizadora de xR World Madrid y escribe en su blog I AM VR"
+    bio:          ""
+    thumbnailUrl: vero.jpg
+    rockstar:     true
+-   id:           3
+    name:         "Almudena"
+    surname:      "Fernández Tourné"
+    title:        "Cloud Solution Architect en Microsoft"
+    bio:          ""
+    thumbnailUrl: almu.jpg
+    rockstar:     true
+-   id:           4
+    name:         "Sergio"
+    surname:      "Guerrero"
+    title:        "Estratega en Tecnologías de Industria de Gobierno en Europa para Microsoft"
+    bio:          ""
+    thumbnailUrl: sergio.png
+    rockstar:     true
+
