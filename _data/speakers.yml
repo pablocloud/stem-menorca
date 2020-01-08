@@ -26,4 +26,46 @@
     bio:          ""
     thumbnailUrl: sergio.png
     rockstar:     true
+-   id:           5
+    name:         "Andrés"
+    surname:      "Leonardo Martínez Ortiz"
+    title:        "Developer programmer manager a Google"
+    bio:          ""
+    thumbnailUrl: andres.png
+    rockstar:     true
+-   id:           6
+    name:         "Lluis"
+    surname:      "Torner"
+    title:        "Fundador y Director de l’Institut de Ciències Fotòniques"
+    bio:          ""
+    thumbnailUrl: lluis.jpg
+    rockstar:     true
+-   id:           7
+    name:         "Pere"
+    surname:      "Puig"
+    title:        "Professor  del departament de matemàtiques i coordinador del grau en matemàtica computacional analítica de dades a la UAB"
+    bio:          ""
+    thumbnailUrl: pere.jpg
+    rockstar:     true
+-   id:           8
+    name:         "Loren"
+    surname:      "Carrasco"
+    title:        "Directora de l’Escola Politècnica Superior de la UIB"
+    bio:          ""
+    thumbnailUrl: loren.jpg
+    rockstar:     true
+-   id:           9
+    name:         "Josep"
+    surname:      "Fernandez"
+    title:        "Decà de la Facultat d’Informàtica de Barcelona de la UPC"
+    bio:          ""
+    thumbnailUrl: josep.jpg
+    rockstar:     true
+-   id:           10
+    name:         "Jordi"
+    surname:      "Jubany"
+    title:        "Formador i assessor en Competència, Cultura i Ciutadania Digital pel Departament d’Educació de la Generalitat de Catalunya"
+    bio:          ""
+    thumbnailUrl: jordi.jpg
+    rockstar:     true
 
