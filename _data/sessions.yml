@@ -1,5 +1,30 @@
-#-   id: 300
-#    title: "Apertura GDG Menorca"
-#    place: ""
-#    service: false
-#    description: ""
+-   id:          299
+    title:       "Descanso"
+    place:       ""
+    service:     false
+    description: ""
+-   id:          300
+    title:       "Apertura GDG Menorca"
+    place:       ""
+    service:     false
+    description: ""
+-   id:          301
+    title:       "Andrés Leonardo Martínez (Google)"
+    place:       ""
+    service:     false
+    description: "Google Software Tech in Open Digital Ecosystems"
+-   id:          302
+    title:       "Verónica Rodríguez"
+    place:       ""
+    service:     false
+    description: ""
+-   id:          303
+    title:       "Inés Huertas"
+    place:       ""
+    service:     false
+    description: ""
+-   id:          304
+    title:       "Pere Puig (UAB)"
+    place:       ""
+    service:     false
+    description: "L'accident del Challenger podria haver-se evitat: un passeig a través de la Modelització Estadística"
