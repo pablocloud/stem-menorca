@@ -34,7 +34,7 @@
             sessionIds: [304]
         }
 -   date: "2019-01-24"
-    dateReadable: "24 de Enero"
+    dateReadable: "24 de Enero (Mañana)"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
     timeslots:
@@ -67,4 +67,44 @@
             startTime: "12:35",
             endTime:   "13:05",
             sessionIds: [307]
+        }
+        - {
+            startTime: "13:10",
+            endTime:   "13:20",
+            sessionIds: [308]
+        }
+-   date: "2019-01-24"
+    dateReadable: "24 de Enero (Tarde)"
+    tracks:
+        - {title: "Ponente", color: "#90be4e"}
+    timeslots:
+        - {
+            startTime: "16:45",
+            endTime: "17:30",
+            sessionIds: [309]
+        }
+        - {
+            startTime: "17:35",
+            endTime: "18:05",
+            sessionIds: [310]
+        }
+        - {
+            startTime: "18:10",
+            endTime: "18:40",
+            sessionIds: [311]
+        }
+        - {
+            startTime: "18:40",
+            endTime: "19:00",
+            sessionIds: [299]
+        }
+        - {
+            startTime: "19:00",
+            endTime: "19:35",
+            sessionIds: [312]
+        }
+        - {
+            startTime: "19:40",
+            endTime: "20:10",
+            sessionIds: [313]
         }

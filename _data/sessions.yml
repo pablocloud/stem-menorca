@@ -43,3 +43,33 @@
     place:       ""
     service:     false
     description: "Microsoft, our mission, our worldview"
+-   id:          308
+    title:       "Cloenda"
+    place:       ""
+    service:     false
+    description: ""
+-   id:          309
+    title:       "Loren Carrasco"
+    place:       ""
+    service:     false
+    description: ""
+-   id:          310
+    title:       "Sergio Guerrero y Almudena Fernández"
+    place:       ""
+    service:     false
+    description: "AI for Earth"
+-   id:          311
+    title:       "Lluis Torner"
+    place:       ""
+    service:     false
+    description: "La Segona Revolució Quàntica"
+-   id:          312
+    title:       "Josep Fernandez"
+    place:       ""
+    service:     false
+    description: "Robots: Oportunitat o amenaça"
+-   id:          313
+    title:       "Jordi Jubany"
+    place:       ""
+    service:     false
+    description: "HUMANITATS EN UN MÓN STEAM"
