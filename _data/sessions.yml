@@ -9,7 +9,7 @@
     service:     false
     description: ""
 -   id:          301
-    title:       "Andrés Leonardo Martínez (Google)"
+    title:       "Andrés Leonardo Martínez"
     place:       ""
     service:     false
     description: "Google Software Tech in Open Digital Ecosystems"
@@ -24,7 +24,22 @@
     service:     false
     description: ""
 -   id:          304
-    title:       "Pere Puig (UAB)"
+    title:       "Pere Puig"
     place:       ""
     service:     false
     description: "L'accident del Challenger podria haver-se evitat: un passeig a través de la Modelització Estadística"
+-   id:          305
+    title:       "Pere Puig"
+    place:       ""
+    service:     false
+    description: "Be a scientist my friend"
+-   id:          306
+    title:       "Josep Fernandez"
+    place:       ""
+    service:     false
+    description: "La revolució digital. De la societat industrial a la societat del coneixement"
+-   id:          307
+    title:       "Sergio Guerrero y Almudena Fernandez"
+    place:       ""
+    service:     false
+    description: "Microsoft, our mission, our worldview"

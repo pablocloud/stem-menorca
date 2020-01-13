@@ -33,13 +33,38 @@
             endTime:   "20:10",
             sessionIds: [304]
         }
-#-   date: "2019-01-24"
-#    dateReadable: "24 de Enero"
-#    tracks:
-#        - {title: "Ponente", color: "#90be4e"}
-#    timeslots:
-#        - {
-#            startTime: "09:30",
-#            endTime: "10:00",
-#            sessionIds: [400]
-#        }
+-   date: "2019-01-24"
+    dateReadable: "24 de Enero"
+    tracks:
+        - {title: "Ponente", color: "#90be4e"}
+    timeslots:
+        - {
+            startTime: "09:30",
+            endTime: "10:00",
+            sessionIds: [300]
+        }
+        - {
+            startTime: "10:00",
+            endTime:   "10:40",
+            sessionIds: [305]
+        }
+        - {
+            startTime: "10:45",
+            endTime:   "11:25",
+            sessionIds: [306]
+        }
+        - {
+            startTime: "11:30",
+            endTime:   "12:00",
+            sessionIds: [299]
+        }
+        - {
+            startTime: "12:00",
+            endTime:   "12:30",
+            sessionIds: [303]
+        }
+        - {
+            startTime: "12:35",
+            endTime:   "13:05",
+            sessionIds: [307]
+        }
