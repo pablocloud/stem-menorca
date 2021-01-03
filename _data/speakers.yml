@@ -1,70 +1,71 @@
 -   id:           1
-    name:         "Inés"
-    surname:      "Huertas"
-    title:        "CDO at TheSideWaysProject"
+    name:         "Eduardo"
+    surname:      "Sáenz de Cabezón"
+    title:        "Profesor de la Universidad de La Rioja y creador del canal de youtube Derivando"
     bio:          ""
     thumbnailUrl: ines.jpg
     rockstar:     true
 -   id:           2
-    name:         "Verónica"
-    surname:      "Rodríguez"
-    title:        "Especialista en Realidad Virtual, Transmedia Storytelling y Branded Content organizadora de xR World Madrid y escribe en su blog I AM VR"
+    name:         "Magdalena"
+    surname:      "Payeras"
+    title:        "Profesora titular en la Universitat de les Illes Balears y miembro del grupo de investigación Seguridad y Comercio Electrónico"
     bio:          ""
     thumbnailUrl: vero.jpg
     rockstar:     true
 -   id:           3
-    name:         "Almudena"
-    surname:      "Fernández Tourné"
-    title:        "Cloud Solution Architect en Microsoft"
+    name:         "Oscar"
+    surname:      "Matilla"
+    title:        "Responsable del áea de Computing del SincrotrónALBA"
     bio:          ""
     thumbnailUrl: almu.jpg
     rockstar:     true
 -   id:           4
-    name:         "Sergio"
-    surname:      "Guerrero"
-    title:        "Estratega en Tecnologías de Industria de Gobierno en Europa para Microsoft"
+    name:         "Josep"
+    surname:      "Vallverdú"
+    title:        "Jefe de proyecto en el departamento de I&D de impresión 3D en HP"
     bio:          ""
     thumbnailUrl: sergio.png
     rockstar:     true
 -   id:           5
-    name:         "Andrés"
-    surname:      "Leonardo Martínez Ortiz"
-    title:        "Developer programmer manager a Google"
+    name:         "Carme"
+    surname:      "Artigas"
+    title:        "Secretaria de Estado de Digitalización e Inteligencia Artificial"
     bio:          ""
     thumbnailUrl: andres.png
     rockstar:     true
 -   id:           6
-    name:         "Lluis"
-    surname:      "Torner"
-    title:        "Fundador y Director de l’Institut de Ciències Fotòniques"
+    name:         "Marta"
+    surname:      "Martín Flix"
+    title:        "Investigadora en el Grupo de investigación Unidad de Biologia Celular y Vicedecana de Mobilidad y Promoción de la Facultat de Biociències de la Universitat Autònoma de Barcelona.
+
     bio:          ""
     thumbnailUrl: lluis.jpg
     rockstar:     true
 -   id:           7
-    name:         "Pere"
-    surname:      "Puig"
-    title:        "Professor  del departament de matemàtiques i coordinador del grau en matemàtica computacional analítica de dades a la UAB"
+    name:         "Jordi"
+    surname:      "Rovira"
+    title:        "Lead Engineer, Founder and CEO a Anticto Estudi Binari"
     bio:          ""
     thumbnailUrl: pere.jpg
     rockstar:     true
 -   id:           8
-    name:         "Loren"
-    surname:      "Carrasco"
-    title:        "Directora de l’Escola Politècnica Superior de la UIB"
+    name:         "Carmen"
+    surname:      "Recio"
+    title:        "Qiskit Advocate, IBM Quantum Ambassador"
     bio:          ""
     thumbnailUrl: loren.jpg
     rockstar:     true
 -   id:           9
-    name:         "Josep"
-    surname:      "Fernandez"
-    title:        "Decà de la Facultat d’Informàtica de Barcelona de la UPC"
+    name:         "Karina"
+    surname:      "Gibert"
+    title:        "catedraica ena Universitat Politècnica de Catalunya en el ámbito de la inteligencia artificial"
     bio:          ""
     thumbnailUrl: josep.jpg
     rockstar:     true
 -   id:           10
-    name:         "Jordi"
-    surname:      "Jubany"
-    title:        "Formador i assessor en Competència, Cultura i Ciutadania Digital pel Departament d’Educació de la Generalitat de Catalunya"
+    name:         "Paco Franco y Josep Piris"
+    surname:      "de Silme"
+    title:        "Gerente e ingeniero en telecomunicaciones de SILME, SA."
     bio:          ""
     thumbnailUrl: jordi.jpg
     rockstar:     true
