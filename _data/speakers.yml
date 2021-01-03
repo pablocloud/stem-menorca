@@ -69,13 +69,6 @@
     bio:          ""
     thumbnailUrl: silme.png
     rockstar:     true
--   id:           11
-    name:         "Aniol"
-    surname:      "Bisquert Parés"
-    company:      "Estudiante de ingeniería informática en la FIB i organizador del Developer Student Club UPC"
-    bio:          ""
-    thumbnailUrl: aniol.jpeg
-    rockstar:     true
     -   id:       12
     name:         "Rita"
     surname:      "Geleta"
