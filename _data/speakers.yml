@@ -76,3 +76,17 @@
     bio:          ""
     thumbnailUrl: aniol.jpeg
     rockstar:     true
+-   id:           12
+    name:         "Rita"
+    surname:      "Geleta"
+    company:      "Estudiante de ciencia e inginiería de datos en la UPC y presidenta de las asociaciones JEDI (Joves Estudiants D’Informàtica) y FIB Visiona"
+    bio:          ""
+    thumbnailUrl: Rita.jpg
+    rockstar:     true
+-   id:           13
+    name:         "Jose"
+    surname:      "Faneca"
+    company:      "Estudiante de inginiería de tecnologías y servicios de Telecomunicación en la ETSETB"
+    bio:          ""
+    thumbnailUrl: faneca.jpg
+    rockstar:     true
