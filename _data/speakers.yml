@@ -58,7 +58,7 @@
 -   id:           9
     name:         "Karina"
     surname:      "Gibert"
-    company:        "catedraica ena Universitat Politècnica de Catalunya en el ámbito de la inteligencia artificial"
+    company:        "Catedraica ena Universitat Politècnica de Catalunya en el ámbito de la inteligencia artificial"
     bio:          ""
     thumbnailUrl: Karina.jpeg
     rockstar:     true
@@ -69,4 +69,24 @@
     bio:          ""
     thumbnailUrl: silme.png
     rockstar:     true
-
+-   id:           11
+    name:         "Aniol"
+    surname:      "Bisquert Parés"
+    company:      "Estudiante de ingeniería informática en la FIB i organizador del Developer Student Club UPC"
+    bio:          ""
+    thumbnailUrl: aniol.lpeg
+    rockstar:     true
+    -   id:       12
+    name:         "Rita"
+    surname:      "Geleta"
+    company:        "Estudiante de ciencia e inginiería de datos en la UPC y presidenta de las asociaciones JEDI (Joves Estudiants D’Informàtica) y FIB Visiona."
+    bio:          ""
+    thumbnailUrl: Rita.jpg
+    rockstar:     true
+    -   id:           13
+    name:         "Jose"
+    surname:      "Faneca"
+    company:        "Estudiante de inginiería de tecnologías y servicios de telecomunicación en la ETSETB"
+    bio:          ""
+    thumbnailUrl: faneca.jpg
+    rockstar:     true
