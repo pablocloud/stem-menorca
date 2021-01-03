@@ -4,72 +4,67 @@
     service:     false
     description: ""
 -   id:          300
-    title:       "Apertura GDG Menorca"
+    title:       "Apertura"
+    place:       ""
+    service:     false
+    description: "Bienvenida por parte de los organizadores"
+-   id:          301
+    title:       "Eduardo Sáenz de Cabezón"
     place:       ""
     service:     false
     description: ""
--   id:          301
-    title:       "Andrés Leonardo Martínez"
-    place:       ""
-    service:     false
-    description: "Google Software Tech in Open Digital Ecosystems"
 -   id:          302
-    title:       "Verónica Rodríguez"
+    title:       "Magdalena Payeras"
     place:       ""
     service:     false
     description: ""
 -   id:          303
-    title:       "Inés Huertas"
+    title:       "Mesa redonda de estudiantes de grados técncicos"
+    place:       ""
+    service:     false
+    description: "Estudiantes de Matemáticas, Ingeniería Informática, Ingenieria en Telecomunicaciones y Ciencia e Ingenieria de Datos hablarán y resolverán dudas de estudiantes a punto de empezar estudios superiores ya sea sobre sus estudios o sobre la vida universitaria"
+-   id:          304
+    title:       "Oscar Matilla"
     place:       ""
     service:     false
     description: ""
--   id:          304
-    title:       "Pere Puig"
-    place:       ""
-    service:     false
-    description: "L'accident del Challenger podria haver-se evitat: un passeig a través de la Modelització Estadística"
 -   id:          305
-    title:       "Pere Puig"
+    title:       "Josep Vallverdú"
     place:       ""
     service:     false
-    description: "Be a scientist my friend"
+    description: ""
 -   id:          306
-    title:       "Josep Fernandez"
+    title:       "Carme Artigas"
     place:       ""
     service:     false
-    description: "La revolució digital. De la societat industrial a la societat del coneixement"
+    description: ""
 -   id:          307
-    title:       "Sergio Guerrero y Almudena Fernandez"
+    title:       "Marta Martín Flix"
     place:       ""
     service:     false
-    description: "Microsoft, our mission, our worldview"
+    description: ""
 -   id:          308
     title:       "Cloenda"
     place:       ""
     service:     false
     description: ""
 -   id:          309
-    title:       "Loren Carrasco"
+    title:       "Jordi Rovira"
     place:       ""
     service:     false
     description: ""
 -   id:          310
-    title:       "Sergio Guerrero y Almudena Fernández"
+    title:       "Karina Gibert"
     place:       ""
     service:     false
-    description: "AI for Earth"
+    description: ""
 -   id:          311
-    title:       "Lluis Torner"
+    title:       "Carmen Recio"
     place:       ""
     service:     false
-    description: "La Segona Revolució Quàntica"
+    description: ""
 -   id:          312
-    title:       "Josep Fernandez"
+    title:       "Paco Franco y Josep Piris"
     place:       ""
     service:     false
-    description: "Robots: Oportunitat o amenaça"
--   id:          313
-    title:       "Jordi Jubany"
-    place:       ""
-    service:     false
-    description: "HUMANITATS EN UN MÓN STEAM"
+    description: ""
