@@ -58,7 +58,7 @@
 -   id:           9
     name:         "Karina"
     surname:      "Gibert"
-    company:        "Catedraica ena Universitat Politècnica de Catalunya en el ámbito de la inteligencia artificial"
+    company:      "Catedraica ena Universitat Politècnica de Catalunya en el ámbito de la inteligencia artificial"
     bio:          ""
     thumbnailUrl: Karina.jpeg
     rockstar:     true
@@ -83,10 +83,10 @@
     bio:          ""
     thumbnailUrl: Rita.jpg
     rockstar:     true
-    -   id:           13
+-   id:           13
     name:         "Jose"
     surname:      "Faneca"
-    company:        "Estudiante de inginiería de tecnologías y servicios de telecomunicación en la ETSETB"
+    company:      "Estudiante de inginiería de tecnologías y servicios de telecomunicación en la ETSETB"
     bio:          ""
     thumbnailUrl: faneca.jpg
     rockstar:     true
