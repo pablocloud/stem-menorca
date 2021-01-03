@@ -61,8 +61,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "STEM TALKS MENORCA 2020"
-eventDate: "23/24 de Enero / Centre Bit Alaior"
+heroTitle: "STEM TALKS MENORCA 2021"
+eventDate: "21/22 de Enero / This time Online"
 # typeoutTextValues: '"", "Menorca", "Women", "Tech", "Makers"'
 typeoutFallback: "Season"
 heroButtons:
@@ -76,8 +76,8 @@ aboutBlock:
  # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
    - {text: '<iframe width="100%" height="350" src="https://www.youtube.com/embed/ULzjGUFXqwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'}
-   - {text: "<p>En este caso, GDG Menorca trae un evento relacionado con STEM (Science, Technology, Engineering, Mathematics) con el objetivo de la divulgación científico-técnica. De esta manera, queremos ofrecer unas jornadas con la ciencia y tecnología como protagonista. Será un evento de dos días, 23 y 24 de enero con conferencias de grandes profesionales en la tecnología y la ciencia dirigidas a cualquier interesado con la materia.
-.</p><p>STEM Talks Menorca es un evento totalmente gratuito que te acercará a cuestiones actuales de la tecnología dadas por grandes exponentes que vendrán de toda España y que son expertos en sus campos. Temas como inteligencia artificial, computación cuántica, Data Science... Diferentes ponentes de instituciones tanto públicas como privadas nos llevarán un evento de calidad en Alaior, Menorca.
+   - {text: "<p>GDG Menorca vuelve con su 4a edición del STEM Talks Menorca, un evento relacionado con el mundo STEM (Science, Technology, Engineering, Mathematics) con el objetivo de la divulgación científico-técnica. De esta manera, queremos ofrecer unas jornadas con la ciencia y tecnología como protagonista. Será un evento de dos días, 22 y 21 de enero con conferencias de grandes profesionales en la tecnología y la ciencia dirigidas a cualquier interesado en la materia.
+.</p><p>STEM Talks Menorca es un evento totalmente gratuito que te acercará a cuestiones actuales de la tecnología dadas por grandes exponentes que vienen de diferentes puntos de España y que son expertos en sus campos. Temas como inteligencia artificial, computación cuántica, impresión 3D, videojuegos... Diferentes ponentes de instituciones tanto públicas como privadas nos llevarán un evento de calidad este año en versión Online y abierto a todo el mundo.
 </p>"}
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
