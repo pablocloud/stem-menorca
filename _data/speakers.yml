@@ -2,12 +2,13 @@
     name:         "Eduardo"
     surname:      "Sáenz de Cabezón"
     title:        "Profesor de la Universidad de La Rioja y creador del canal de youtube Derivando"
-    bio:          ""
+    bio:          "bru"
     thumbnailUrl: Eduardo.jpg
     rockstar:     true
 -   id:           2
     name:         "Magdalena"
     surname:      "Payeras"
+    company:        "bruu"
     title:        "Profesora titular en la Universitat de les Illes Balears y miembro del grupo de investigación Seguridad y Comercio Electrónico"
     bio:          ""
     thumbnailUrl: Magdalena.jfif
