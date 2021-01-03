@@ -1,14 +1,14 @@
 -   id:           1
     name:         "Eduardo"
     surname:      "Sáenz de Cabezón"
-    title:        "Profesor de la Universidad de La Rioja y creador del canal de youtube Derivando"
-    bio:          "bru"
+    company:        "Profesor de la Universidad de La Rioja y creador del canal de youtube Derivando"
+    bio:          ""
     thumbnailUrl: Eduardo.jpg
     rockstar:     true
 -   id:           2
     name:         "Magdalena"
     surname:      "Payeras"
-    company:        "bruu"
+    company:      "Profesora titular en la Universitat de les Illes Balears y miembro del grupo de investigación Seguridad y Comercio Electrónico"
     title:        "Profesora titular en la Universitat de les Illes Balears y miembro del grupo de investigación Seguridad y Comercio Electrónico"
     bio:          ""
     thumbnailUrl: Magdalena.jfif
@@ -16,56 +16,56 @@
 -   id:           3
     name:         "Oscar"
     surname:      "Matilla"
-    title:        "Responsable del áea de Computing del SincrotrónALBA"
+    company:        "Responsable del áea de Computing del SincrotrónALBA"
     bio:          ""
     thumbnailUrl: Oscar.jpeg
     rockstar:     true
 -   id:           4
     name:         "Josep"
     surname:      "Vallverdú"
-    title:        "Jefe de proyecto en el departamento de I&D de impresión 3D en HP"
+    company:        "Jefe de proyecto en el departamento de I&D de impresión 3D en HP"
     bio:          ""
     thumbnailUrl: Josep.jpeg
     rockstar:     true
 -   id:           5
     name:         "Carme"
     surname:      "Artigas"
-    title:        "Secretaria de Estado de Digitalización e Inteligencia Artificial"
+    company:        "Secretaria de Estado de Digitalización e Inteligencia Artificial"
     bio:          ""
     thumbnailUrl: Sedia.jpg
     rockstar:     true
 -   id:           6
     name:         "Marta"
     surname:      "Martín Flix"
-    title:        "Investigadora en el Grupo de investigación Unidad de Biologia Celular y Vicedecana de Mobilidad y Promoción de la Facultat de Biociències de la Universitat Autònoma de Barcelona"
+    company:        "Investigadora en el Grupo de investigación Unidad de Biologia Celular y Vicedecana de Mobilidad y Promoción de la Facultat de Biociències de la Universitat Autònoma de Barcelona"
     bio:          ""
     thumbnailUrl: Marta.png
     rockstar:     true
 -   id:           7
     name:         "Jordi"
     surname:      "Rovira"
-    title:        "Lead Engineer, Founder and CEO a Anticto Estudi Binari"
+    company:        "Lead Engineer, Founder and CEO a Anticto Estudi Binari"
     bio:          ""
     thumbnailUrl: Jordi.JPG
     rockstar:     true
 -   id:           8
     name:         "Carmen"
     surname:      "Recio"
-    title:        "Qiskit Advocate, IBM Quantum Ambassador"
+    company:        "Qiskit Advocate, IBM Quantum Ambassador"
     bio:          ""
     thumbnailUrl: Carmen.png
     rockstar:     true
 -   id:           9
     name:         "Karina"
     surname:      "Gibert"
-    title:        "catedraica ena Universitat Politècnica de Catalunya en el ámbito de la inteligencia artificial"
+    company:        "catedraica ena Universitat Politècnica de Catalunya en el ámbito de la inteligencia artificial"
     bio:          ""
     thumbnailUrl: Karina.jpeg
     rockstar:     true
 -   id:           10
     name:         "Paco Franco y Josep Piris"
     surname:      "de Silme"
-    title:        "Gerente e ingeniero en telecomunicaciones de SILME, SA."
+    company:        "Gerente e ingeniero en telecomunicaciones de SILME, SA."
     bio:          ""
     thumbnailUrl: silme.png
     rockstar:     true
