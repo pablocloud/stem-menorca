@@ -9,102 +9,83 @@
             sessionIds: [300]
         }
         - {
-            startTime: "17:35",
-            endTime:   "18:05",
+            startTime: "10:35",
+            endTime:   "11:15",
             sessionIds: [301]
         }
         - {
-            startTime: "18:10",
-            endTime:   "18:40",
+            startTime: "11:20",
+            endTime:   "12:05",
             sessionIds: [302]
         }
         - {
-            startTime: "18:40",
-            endTime:   "19:00",
+            startTime: "12:05",
+            endTime:   "12:30",
             sessionIds: [299]
         }
         - {
-            startTime: "19:00",
-            endTime:   "19:35",
+            startTime: "12:30",
+            endTime:   "13:30",
             sessionIds: [303]
         }
-        - {
-            startTime: "19:40",
-            endTime:   "20:10",
-            sessionIds: [304]
-        }
--   date: "2019-01-24"
-    dateReadable: "24 de Enero (Mañana)"
+-   date: "2021-01-21"
+    dateReadable: "21 de Enero (Tarde)"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
     timeslots:
         - {
-            startTime: "09:30",
-            endTime: "10:00",
-            sessionIds: [300]
+            startTime: "17:20",
+            endTime: "18:05",
+            sessionIds: [304]
         }
         - {
-            startTime: "10:00",
-            endTime:   "10:40",
+            startTime: "18:10",
+            endTime:   "18:55",
             sessionIds: [305]
         }
+        
+-   date: "2021-01-22"
+    dateReadable: "22 de Enero (Mañana)"
+    tracks:
+        - {title: "Ponente", color: "#90be4e"}
+    timeslots:        
         - {
-            startTime: "10:45",
-            endTime:   "11:25",
+            startTime: "10:00",
+            endTime:   "10:35",
             sessionIds: [306]
         }
         - {
-            startTime: "11:30",
-            endTime:   "12:00",
-            sessionIds: [299]
-        }
-        - {
-            startTime: "12:00",
-            endTime:   "12:30",
-            sessionIds: [303]
-        }
-        - {
-            startTime: "12:35",
-            endTime:   "13:05",
+            startTime: "10:40",
+            endTime:   "11:25",
             sessionIds: [307]
         }
         - {
-            startTime: "13:10",
-            endTime:   "13:20",
+            startTime: "11:25",
+            endTime:   "11:50",
+            sessionIds: [299]
+        }
+        - {
+            startTime: "11:50",
+            endTime:   "12:35",
             sessionIds: [308]
         }
--   date: "2019-01-24"
-    dateReadable: "24 de Enero (Tarde)"
+        - {
+            startTime: "12:40",
+            endTime:   "13:25",
+            sessionIds: [309]
+        }
+-   date: "2021-01-22"
+    dateReadable: "22 de Enero (Tarde)"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
     timeslots:
         - {
-            startTime: "16:45",
-            endTime: "17:30",
-            sessionIds: [309]
-        }
-        - {
-            startTime: "17:35",
+            startTime: "17:20",
             endTime: "18:05",
             sessionIds: [310]
         }
         - {
             startTime: "18:10",
-            endTime: "18:40",
+            endTime:   "18:55",
             sessionIds: [311]
-        }
-        - {
-            startTime: "18:40",
-            endTime: "19:00",
-            sessionIds: [299]
-        }
-        - {
-            startTime: "19:00",
-            endTime: "19:35",
-            sessionIds: [312]
-        }
-        - {
-            startTime: "19:40",
-            endTime: "20:10",
-            sessionIds: [313]
         }
