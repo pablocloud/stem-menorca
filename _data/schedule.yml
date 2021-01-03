@@ -1,11 +1,11 @@
--   date: "2019-01-23"
-    dateReadable: "23 de Enero"
+-   date: "2021-01-21"
+    dateReadable: "21 de Enero (Mañana)"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
     timeslots:
         - {
-            startTime: "16:45",
-            endTime: "17:30",
+            startTime: "10:20",
+            endTime: "10:30",
             sessionIds: [300]
         }
         - {
