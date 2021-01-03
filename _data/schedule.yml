@@ -67,12 +67,12 @@
         - {
             startTime: "11:50",
             endTime:   "12:35",
-            sessionIds: [308]
+            sessionIds: [309]
         }
         - {
             startTime: "12:40",
             endTime:   "13:25",
-            sessionIds: [309]
+            sessionIds: [310]
         }
 -   date: "2021-01-22"
     dateReadable: "22 de Enero (Tarde)"
@@ -82,10 +82,10 @@
         - {
             startTime: "17:20",
             endTime: "18:05",
-            sessionIds: [310]
+            sessionIds: [311]
         }
         - {
             startTime: "18:10",
             endTime:   "18:55",
-            sessionIds: [311]
+            sessionIds: [312]
         }
