@@ -14,8 +14,8 @@
     service:     false
     description: ""
 -   id:          302
-    title:       "Magdalena Payeras"
-    place:       ""
+    title:       "Tecnologia Blockchain: més enllà del Bitcoin - Magdalena Payeras"
+    place:       "Les criptomonedes són sistemes de pagament distribuits, que difereixen dels sistemes tradicionals en l'eliminació d'una entitat central que s'encarregui d'emetre i validar moneda.  Estan estretament relacionades amb la tecnología blockchain, o cadena de blocs. Veurem com aquesta tecnologia obre les portes a nous tipus d'aplicacions per a àmbits molt diversos"
     service:     false
     description: ""
 -   id:          303
@@ -29,8 +29,8 @@
     service:     false
     description: ""
 -   id:          305
-    title:       "Josep Vallverdú"
-    place:       ""
+    title:       "Impressió 3D amb HP MultiJet Fusion - Josep Vallverdú"
+    place:       "Els avantços recents en la fabricació additiva, mitjançant la impressió 3D, ens obren tot un ventall de possibilitats pel futur, entre elles la personalització de multitud de coses del nostre entorn que fins ara, o es produien en massa i totes iguals o la personalització tenia un cost molt elevat: sabates d’esport, pròtessis mèdiques, accessoris personals, etc. En aquesta xerrada farem una introducció a les tecnologies actuals al mercat i les seves característiques, aprofundint una mica més en la proposta d’HP: MultiJet Fusion."
     service:     false
     description: ""
 -   id:          306
@@ -39,8 +39,8 @@
     service:     false
     description: ""
 -   id:          307
-    title:       "Marta Martín Flix"
-    place:       ""
+    title:       "La tecnologia aplicada als cultius cel·lulars per a la producció de vacunes - Marta Martín Flix"
+    place:       "La xerrada serà un repàs històric, des de finals de segle XIX fins a l'actualitat, de diversos avenços tecnològics que han permès el cultiu cel·lular a gran escala; un pas essencial per al desenvolupament exitós de vacunes eficients."
     service:     false
     description: ""
 -   id:          308
@@ -49,8 +49,8 @@
     service:     false
     description: ""
 -   id:          309
-    title:       "Jordi Rovira"
-    place:       ""
+    title:       "Perspective global i subjectiva de la indústria del videojoc - Jordi Rovira"
+    place:       "En aquesta presentació s'intentarà donar una imatge global de la indústria del videojocs des d'una perspectiva econòmica, tecnològica i de les tendències actuals. Parlaré dels principals actors, de les principals plataformes i de tipus d'empreses i projectes que formen part de l'ecosistema."
     service:     false
     description: ""
 -   id:          310
@@ -59,12 +59,12 @@
     service:     false
     description: ""
 -   id:          311
-    title:       "Carmen Recio"
-    place:       ""
+    title:       "¡Hasta la Ventaja Quántica y más allá! - Carmen Recio"
+    place:       "¿Qué es la computación cuántica? ¿Para qué sirve? ¿Sustituirá a la clásica? ¿Qué le pasó al gato de  Schrödinger? En esta charla contestaremos a estas preguntas y a muchas más y además utilizaremos la plataforma IBM Quantum Experience para aprender cómo acceder a... ¡un ordenador cuántico de verdad!"
     service:     false
     description: ""
 -   id:          312
-    title:       "Paco Franco y Josep Piris"
-    place:       ""
+    title:       "SILME i el 5G a Menorca - Paco Franco y Josep Piris"
+    place:       "Introduirem què és i que fem a SILME i xerrarem sobre el l'actualitat del 5G i la seva implementació a Menorca"
     service:     false
     description: ""
