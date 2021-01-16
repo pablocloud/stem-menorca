@@ -54,10 +54,12 @@
     service:     false
     description: "En aquesta presentació s'intentarà donar una imatge global de la indústria del videojocs des d'una perspectiva econòmica, tecnològica i de les tendències actuals. Parlaré dels principals actors, de les principals plataformes i de tipus d'empreses i projectes que formen part de l'ecosistema."
 -   id:          310
-    title:       "Karina Gibert"
+    title:       "Dades i Intel.ligència Artificial: Retrat d'una realitat. El projecte INSESS-COVID19 - Karina Gibert"
     place:       ""
     service:     false
-    description: ""
+    description: "
+La xerrada presenta el potencial de les tècnique d'Intel.ligència artificial i ciència de les dades per oferir visions transparents de les realitats més complexes i presenta una proposta tecnològica que ho permet fer en temps molt curts comptant amb la participació de la ciutadania, presentant el projecte INSESS-COVID19. Les conseqüències de la crisi provocada per la Covid-19 han estat devastadores des del punt de vista sanitari, però també des del punt de vista econòmic i de
+benestar social. Ens enfrontem a una situació mai vista abans i a l’abril del 2020, quan concebíem el projecte, estàvem convençuts que apareixerien  necessitats socials noves que era urgent identificar per atendre adequadament."
 -   id:          311
     title:       "¡Hasta la Ventaja Quántica y más allá! - Carmen Recio"
     place:       ""
