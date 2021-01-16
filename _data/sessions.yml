@@ -24,10 +24,10 @@
     service:     false
     description: "Estudiantes de Matemáticas, Ingeniería Informática, Ingenieria en Telecomunicaciones y Ciencia e Ingenieria de Datos hablarán y resolverán dudas de estudiantes a punto de empezar estudios superiores ya sea sobre sus estudios o sobre la vida universitaria"
 -   id:          304
-    title:       "Oscar Matilla"
+    title:       "El sincrotón ALBA - Oscar Matilla"
     place:       ""
     service:     false
-    description: ""
+    description: "ALBA es un acelerador de tipo sincrotrón que está entre los más grandes del mundo y que ha cumplido este pasado 2020 10 años en funcionamiento. En esta charla se explicará cual es la función de esta infraestructura para la investigación pasando luego a describir los retos futuros a los cuales se enfrenta. Todo ello desde un aspecto que muchas veces no es tan visible como es el enorme trabajo de ingeniería que hay detrás de estas grandes infraestructuras cientifico-técnicas."
 -   id:          305
     title:       "Impressió 3D amb HP MultiJet Fusion - Josep Vallverdú"
     place:       ""
