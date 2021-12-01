@@ -1,4 +1,5 @@
--   date: "2022-01-27"
+-   
+    date: "2022-01-27"
     dateReadable: "Jueves 27 de Enero"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
@@ -34,7 +35,8 @@
             sessionIds: [305]
         }
         
--   date: "2022-01-28"
+-   
+    date: "2022-01-28"
     dateReadable: "Viernes 28 de Enero (Mañana)"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
@@ -69,7 +71,8 @@
             endTime:   "13:20",
             sessionIds: [302]
         }
--   date: "2022-01-22"
+-   
+    date: "2022-01-22"
     dateReadable: "Viernes 28 de Enero (Tarde)"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
