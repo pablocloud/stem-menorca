@@ -75,23 +75,23 @@
   date: "2022-01-22"
   dateReadable: "Viernes 28 de Enero (Tarde)"
   tracks:
-    - {title: "Ponente", color: "#90be4e"}
+     - {title: "Ponente", color: "#90be4e"}
   timeslots:
-    - {
+     - {
       startTime: "17:00",
       endTime:   "17:20",
       sessionIds: [311]
-    }
-    - {
+     }
+     - {
       startTime: "17:20",
       endTime:   "17:55",
       sessionIds: [311]
-    }
+     }
      - {
       startTime: "17:55",
       endTime:   "18:30",
       sessionIds: [312]
-    }
+     }
      - {
       startTime: "18:30",
       endTime:   "18:50",
