@@ -1,78 +1,78 @@
 -   id:           1
     name:         "Eduardo"
     surname:      "Sáenz de Cabezón"
-    company:        "Profesor de la Universidad de La Rioja y creador del canal de youtube Derivando"
+    company:       "Profesor de la Universidad de La Rioja y divulgador científico con el canal de youtube Derivando"
     bio:          ""
     thumbnailUrl: eduardo.jpg
     rockstar:     true
 -   id:           2
-    name:         "Magdalena"
-    surname:      "Payeras"
-    company:      "Profesora titular en la Universitat de les Illes Balears y miembro del grupo de investigación Seguridad y Comercio Electrónico"
-    title:        "Profesora titular en la Universitat de les Illes Balears y miembro del grupo de investigación Seguridad y Comercio Electrónico"
-    bio:          ""
+    name:         "Cristina"
+    surname:      "Manresa"
+    company:      "Doctora en Informática y profesora Titular de la Universitat de les Illes Balears"
+    title:        "Doctora en Informática y profesora Titular de la Universitat de les Illes Balears"
+    bio:          "Doctora en Informática y profesora Titular de la Universitat de les Illes Balears"
     thumbnailUrl: Magdalena.jfif
     rockstar:     true
 -   id:           3
-    name:         "Oscar"
-    surname:      "Matilla"
-    company:        "Responsable del áea de Computing del SincrotrónALBA"
+    name:         "Roberto"
+    surname:      "Romero"
+    company:        "Chief Product Officer en LA FRONTERA VR"
     bio:          ""
     thumbnailUrl: OscarM.jpeg
     rockstar:     true
 -   id:           4
-    name:         "Josep"
-    surname:      "Vallverdú"
-    company:        "Jefe de proyecto en el departamento de I&D de impresión 3D en HP"
+    name:         "Juan Carlos"
+    surname:      "González-Avella"
+    company:        "Chief Data Officer APSL, Senior Data Scientist, Doctor en Física Estadística y Sistemas Complejos"
     bio:          ""
     thumbnailUrl: Josep.jpeg
     rockstar:     true
 -   id:           5
-    name:         "Carme"
-    surname:      "Artigas"
-    company:        "Secretaria de Estado de Digitalización e Inteligencia Artificial"
+    name:         "Marisa"
+    surname:      "Huaynalaya"
+    company:      "Chief Strategy Officer APSL, Product Manager de Soluciones de Datos e Inteligencia Artificial y Coach de Transformación Digital"
     bio:          ""
     thumbnailUrl: Sedia.jpg
     rockstar:     true
 -   id:           6
-    name:         "Marta"
-    surname:      "Martín Flix"
-    company:        "Investigadora en el Grupo Genome Instability de la Unidad de Biologia Celular y Vicedecana de Mobilidad y Promoción de la Facultat de Biociències de la Universitat Autònoma de Barcelona"
+    name:         "Nuria"
+    surname:      "Pelechano"
+    company:      "Profesora asociada en la Universitat Politècnica de Catalunya y miembro del centro de investigación de Visualization, Virtual Reality and Graphics Interaction"
     bio:          ""
     thumbnailUrl: Marta.png
     rockstar:     true
 -   id:           7
-    name:         "Jordi"
-    surname:      "Rovira"
-    company:        "Lead Engineer, Founder and CEO a Anticto Estudi Binari"
+    name:         "Jose Antonio"
+    surname:      "Ondiviela"
+    company:       "Director de SmartCities para Europa en Microsoft"
     bio:          ""
     thumbnailUrl: Jordi.JPG
     rockstar:     true
 -   id:           8
-    name:         "Carmen"
-    surname:      "Recio"
-    company:        "Qiskit Advocate, IBM Quantum Ambassador"
+    name:         "Ignasi"
+    surname:      "Furió"
+    company:       "Profesor titular en la Universitat de les Illes Balears en el área de ingeniería telemática"
     bio:          ""
     thumbnailUrl: Carmen.png
     rockstar:     true
 -   id:           9
-    name:         "Karina"
-    surname:      "Gibert"
-    company:      "Catedrática en la Universitat Politècnica de Catalunya en el ámbito de la inteligencia artificial"
+    name:         "Albert"
+    surname:      "Sunyer"
+    company:      "Technical Solution Engineer en Google"
     bio:          ""
     thumbnailUrl: Karina.jpeg
     rockstar:     true
 -   id:           10
-    name:         "Paco Franco y Josep Piris"
-    surname:      "de Silme"
-    company:        "Gerente e ingeniero en telecomunicaciones de SILME, SA."
-    bio:          ""
+    name:         "Debbie"
+    surname:      "O'Brien"
+    company:       "Gerente e ingeniero en telecomunicaciones de SILME, SA."
+    bio:          "Head Developer Advocate en Bit y Google Developer Expert en tecnologías web"
     thumbnailUrl: silme.png
     rockstar:     true
 -   id:           11
-    name:         "Aniol"
-    surname:      "Bisquert Parés"
-    company:      "Estudiante de ingeniería informática en la FIB i organizador del Developer Student Club UPC"
+    name:         "Asier"
+    surname:      "Arranz"
+    company:      "Developer Marketing Manager en NVIDIA"
     bio:          ""
     thumbnailUrl: aniol.jpeg
     rockstar:     true
