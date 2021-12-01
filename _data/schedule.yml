@@ -34,8 +34,8 @@
             sessionIds: [305]
         }
         
--   date: "2021-01-22"
-    dateReadable: "22 de Enero (Mañana)"
+-   date: "2022-01-28"
+    dateReadable: "Viernes 28 de Enero (Mañana)"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
     timeslots:        
@@ -64,8 +64,8 @@
             endTime:   "13:25",
             sessionIds: [302]
         }
--   date: "2021-01-22"
-    dateReadable: "22 de Enero (Tarde)"
+-   date: "2022-01-22"
+    dateReadable: "Viernes 28 de Enero (Tarde)"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
     timeslots:
