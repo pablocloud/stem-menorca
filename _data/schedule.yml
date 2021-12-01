@@ -1,46 +1,36 @@
--   date: "2021-01-21"
-    dateReadable: "21 de Enero (Mañana)"
+-   date: "2022-01-27"
+    dateReadable: "Jueves 27 de Enero"
     tracks:
         - {title: "Ponente", color: "#90be4e"}
     timeslots:
         - {
-            startTime: "10:20",
-            endTime: "10:30",
+            startTime: "17:00",
+            endTime: "17:20",
             sessionIds: [300]
         }
         - {
-            startTime: "10:35",
-            endTime:   "11:15",
-            sessionIds: [301]
+            startTime: "17:20",
+            endTime:   "17:55",
+            sessionIds: [302]
         }
-        - {
-            startTime: "11:20",
-            endTime:   "12:05",
-            sessionIds: [310]
-        }
-        - {
-            startTime: "12:05",
-            endTime:   "12:30",
+         - {
+            startTime: "17:55",
+            endTime:   "18:30",
             sessionIds: [299]
         }
-        - {
-            startTime: "12:30",
-            endTime:   "13:30",
-            sessionIds: [303]
+         - {
+            startTime: "18:30",
+            endTime:   "18:50",
+            sessionIds: [299]
         }
--   date: "2021-01-21"
-    dateReadable: "21 de Enero (Tarde)"
-    tracks:
-        - {title: "Ponente", color: "#90be4e"}
-    timeslots:
-        - {
-            startTime: "17:20",
-            endTime: "18:05",
+         - {
+            startTime: "18:50",
+            endTime:   "19:25",
             sessionIds: [304]
         }
-        - {
-            startTime: "18:10",
-            endTime:   "18:55",
+         - {
+            startTime: "19:25",
+            endTime:   "20:00",
             sessionIds: [305]
         }
         
@@ -80,12 +70,32 @@
         - {title: "Ponente", color: "#90be4e"}
     timeslots:
         - {
-            startTime: "17:20",
-            endTime: "18:05",
+            startTime: "17:00",
+            endTime: "17:20",
             sessionIds: [311]
         }
         - {
-            startTime: "18:10",
-            endTime:   "18:55",
+            startTime: "17:20",
+            endTime:   "17:55",
+            sessionIds: [311]
+        }
+         - {
+            startTime: "17:55",
+            endTime:   "18:30",
             sessionIds: [312]
+        }
+         - {
+            startTime: "18:30",
+            endTime:   "18:50",
+            sessionIds: [299]
+        }
+         - {
+            startTime: "18:50",
+            endTime:   "19:25",
+            sessionIds: [313]
+        }
+         - {
+            startTime: "19:25",
+            endTime:   "20:00",
+            sessionIds: [301]
         }
