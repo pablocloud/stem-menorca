@@ -1,6 +1,6 @@
 - 
-  date: "2017-03-10"
-  dateReadable: "10 de Marzo"
+  date: "2022-01-27"
+  dateReadable: "Jueves 27 de enero"
   tracks: 
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
@@ -9,31 +9,31 @@
     	endTime: "17:20",
     	sessionIds: [300]
     }
-         - {
-            startTime: "17:20",
-            endTime:   "17:55",
-            sessionIds: [302]
-        }
-         - {
-            startTime: "17:55",
-            endTime:   "18:30",
-            sessionIds: [299]
-        }
-         - {
-            startTime: "18:30",
-            endTime:   "18:50",
-            sessionIds: [299]
-        }
-         - {
-            startTime: "18:50",
-            endTime:   "19:25",
-            sessionIds: [304]
-        }
-         - {
-            startTime: "19:25",
-            endTime:   "20:00",
-            sessionIds: [305]
-        }
+    - {
+      startTime: "17:20",
+      endTime:   "17:55",
+      sessionIds: [302]
+    }
+    - {
+      startTime: "17:55",
+      endTime:   "18:30",
+      sessionIds: [299]
+    }
+    - {
+      startTime: "18:30",
+      endTime:   "18:50",
+      sessionIds: [299]
+    }
+    - {
+      startTime: "18:50",
+      endTime:   "19:25",
+      sessionIds: [304]
+    }
+    - {
+      startTime: "19:25",
+      endTime:   "20:00",
+      sessionIds: [305]
+    }
         
 -   
     date: "2022-01-28"
