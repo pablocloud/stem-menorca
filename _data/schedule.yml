@@ -1,15 +1,15 @@
--   
-    date: "2022-01-27"
-    dateReadable: "Jueves 27 de Enero"
-    tracks:
-        - {title: "Ponente", color: "#90be4e"}
-    timeslots:
-        - {
-            startTime: "17:00",
-            endTime: "17:20",
-            sessionIds: [300]
-        }
-        - {
+- 
+  date: "2017-03-10"
+  dateReadable: "10 de Marzo"
+  tracks: 
+    - {title: "Ponente", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "017:00",
+    	endTime: "17:20",
+    	sessionIds: [300]
+    }
+         - {
             startTime: "17:20",
             endTime:   "17:55",
             sessionIds: [302]
