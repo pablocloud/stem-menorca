@@ -14,59 +14,63 @@
     service:     false
     description: ""
 -   id:          302
-    title:       "Tecnologia Blockchain: més enllà del Bitcoin - Magdalena Payeras"
+    title:       "Cristina Manresa"
     place:       ""
     service:     false
     description: "Les criptomonedes són sistemes de pagament distribuits, que difereixen dels sistemes tradicionals en l'eliminació d'una entitat central que s'encarregui d'emetre i validar moneda.  Estan estretament relacionades amb la tecnología blockchain, o cadena de blocs. Veurem com aquesta tecnologia obre les portes a nous tipus d'aplicacions per a àmbits molt diversos"
 -   id:          303
-    title:       "Mesa redonda de estudiantes de grados técncicos"
+    title:       "Mesa redonda de estudiantes de grados STEM"
     place:       ""
     service:     false
     description: "Estudiantes de Matemáticas, Ingeniería Informática, Ingenieria en Telecomunicaciones y Ciencia e Ingenieria de Datos hablarán y resolverán dudas de estudiantes a punto de empezar estudios superiores ya sea sobre sus estudios o sobre la vida universitaria"
 -   id:          304
-    title:       "El sincrotón ALBA - Oscar Matilla"
+    title:       "Roberto Romero"
     place:       ""
     service:     false
-    description: "ALBA es un acelerador de tipo sincrotrón que está entre los más grandes del mundo y que ha cumplido este pasado 2020 10 años en funcionamiento. En esta charla se explicará cual es la función de esta infraestructura para la investigación pasando luego a describir los retos futuros a los cuales se enfrenta. Todo ello desde un aspecto que muchas veces no es tan visible como es el enorme trabajo de ingeniería que hay detrás de estas grandes infraestructuras cientifico-técnicas."
+    description: ""
 -   id:          305
-    title:       "Impressió 3D amb HP MultiJet Fusion - Josep Vallverdú"
+    title:       "Juan Carlos González-Avella y Marisa Huaynalaya"
     place:       ""
     service:     false
-    description: "Els avantços recents en la fabricació additiva, mitjançant la impressió 3D, ens obren tot un ventall de possibilitats pel futur, entre elles la personalització de multitud de coses del nostre entorn que fins ara, o es produien en massa i totes iguals o la personalització tenia un cost molt elevat: sabates d’esport, pròtessis mèdiques, accessoris personals, etc. En aquesta xerrada farem una introducció a les tecnologies actuals al mercat i les seves característiques, aprofundint una mica més en la proposta d’HP: MultiJet Fusion."
+    description: ""
 -   id:          306
-    title:       "Carme Artigas"
+    title:       "Nuria Pelechano"
     place:       ""
     service:     false
     description: ""
 -   id:          307
-    title:       "La tecnologia aplicada als cultius cel·lulars per a la producció de vacunes - Marta Martín Flix"
+    title:       "Jose Antonio Ondiviela"
     place:       ""
     service:     false
-    description: "La xerrada serà un repàs històric, des de finals de segle XIX fins a l'actualitat, de diversos avenços tecnològics que han permès el cultiu cel·lular a gran escala; un pas essencial per al desenvolupament exitós de vacunes eficients."
+    description: ""
 -   id:          308
     title:       "Cloenda"
     place:       ""
     service:     false
     description: ""
 -   id:          309
-    title:       "Perspectiva global i subjectiva de la indústria del videojoc - Jordi Rovira"
+    title:       "Universitat Autònoma de Barcelona"
     place:       ""
     service:     false
-    description: "En aquesta presentació s'intentarà donar una imatge global de la indústria del videojocs des d'una perspectiva econòmica, tecnològica i de les tendències actuals. Parlaré dels principals actors, de les principals plataformes i de tipus d'empreses i projectes que formen part de l'ecosistema."
+    description: ""
 -   id:          310
-    title:       "Dades i Intel.ligència Artificial: Retrat d'una realitat. El projecte INSESS-COVID19 - Karina Gibert"
+    title:       "Ignasi Furió"
     place:       ""
     service:     false
-    description: "
-La xerrada presenta el potencial de les tècnique d'Intel.ligència artificial i ciència de les dades per oferir visions transparents de les realitats més complexes i presenta una proposta tecnològica que ho permet fer en temps molt curts comptant amb la participació de la ciutadania, presentant el projecte INSESS-COVID19. Les conseqüències de la crisi provocada per la Covid-19 han estat devastadores des del punt de vista sanitari, però també des del punt de vista econòmic i de
-benestar social. Ens enfrontem a una situació mai vista abans i a l’abril del 2020, quan concebíem el projecte, estàvem convençuts que apareixerien  necessitats socials noves que era urgent identificar per atendre adequadament."
+    description: ""
 -   id:          311
-    title:       "¡Hasta la Ventaja Quántica y más allá! - Carmen Recio"
+    title:       "Albert Sunyer"
     place:       ""
     service:     false
-    description: "¿Qué es la computación cuántica? ¿Para qué sirve? ¿Sustituirá a la clásica? ¿Qué le pasó al gato de  Schrödinger? En esta charla contestaremos a estas preguntas y a muchas más y además utilizaremos la plataforma IBM Quantum Experience para aprender cómo acceder a... ¡un ordenador cuántico de verdad!"
+    description: ""
 -   id:          312
-    title:       "SILME i el 5G a Menorca - Paco Franco y Josep Piris"
+    title:       "Debbie O'Brien"
     place:       ""
     service:     false
-    description: "Introduirem què és i que fem a SILME i xerrarem sobre el l'actualitat del 5G i la seva implementació a Menorca"
+    description: ""
+    -   id:          313
+    title:       "Asier Arranz"
+    place:       ""
+    service:     false
+    description: ""
+    
