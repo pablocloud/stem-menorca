@@ -3,7 +3,7 @@
     surname:      "Sáenz de Cabezón"
     company:       "Profesor de la Universidad de La Rioja y divulgador científico con el canal de youtube Derivando"
     bio:          ""
-    thumbnailUrl: eduardo.jpg
+    thumbnailUrl: eduardoUR 2.jpg
     rockstar:     true
 -   id:           2
     name:         "Cristina"
@@ -11,7 +11,7 @@
     company:      "Doctora en Informática y profesora Titular de la Universitat de les Illes Balears"
     title:        "Doctora en Informática y profesora Titular de la Universitat de les Illes Balears"
     bio:          "Doctora en Informática y profesora Titular de la Universitat de les Illes Balears"
-    thumbnailUrl: Magdalena.jfif
+    thumbnailUrl: cristin.jpeg
     rockstar:     true
 -   id:           3
     name:         "Roberto"
@@ -25,35 +25,35 @@
     surname:      "González-Avella"
     company:        "Chief Data Officer APSL, Senior Data Scientist, Doctor en Física Estadística y Sistemas Complejos"
     bio:          ""
-    thumbnailUrl: Josep.jpeg
+    thumbnailUrl: JC Botibot.jpg
     rockstar:     true
 -   id:           5
     name:         "Marisa"
     surname:      "Huaynalaya"
     company:      "Chief Strategy Officer APSL, Product Manager de Soluciones de Datos e Inteligencia Artificial y Coach de Transformación Digital"
     bio:          ""
-    thumbnailUrl: Sedia.jpg
+    thumbnailUrl: Marisa Huaynalaya Botibot.jpg
     rockstar:     true
 -   id:           6
     name:         "Nuria"
     surname:      "Pelechano"
     company:      "Profesora asociada en la Universitat Politècnica de Catalunya y miembro del centro de investigación de Visualization, Virtual Reality and Graphics Interaction"
     bio:          ""
-    thumbnailUrl: Marta.png
+    thumbnailUrl: fotoNuria.jpg
     rockstar:     true
 -   id:           7
     name:         "Jose Antonio"
     surname:      "Ondiviela"
     company:       "Director de SmartCities para Europa en Microsoft"
     bio:          ""
-    thumbnailUrl: Jordi.JPG
+    thumbnailUrl: Ondiviela-Bio-Photo.jpg
     rockstar:     true
 -   id:           8
     name:         "Ignasi"
     surname:      "Furió"
-    company:       "Profesor titular en la Universitat de les Illes Balears en el área de ingeniería telemática"
+    company:      "Profesor titular en la Universitat de les Illes Balears en el área de ingeniería telemática"
     bio:          ""
-    thumbnailUrl: Carmen.png
+    thumbnailUrl: ignasi.png
     rockstar:     true
 -   id:           9
     name:         "Albert"
@@ -65,9 +65,9 @@
 -   id:           10
     name:         "Debbie"
     surname:      "O'Brien"
-    company:       "Gerente e ingeniero en telecomunicaciones de SILME, SA."
-    bio:          "Head Developer Advocate en Bit y Google Developer Expert en tecnologías web"
-    thumbnailUrl: silme.png
+    company:       "Head Developer Advocate en Bit y Google Developer Expert en tecnologías web"
+    bio:          ""
+    thumbnailUrl: DebbieOBrien.jpg
     rockstar:     true
 -   id:           11
     name:         "Asier"
