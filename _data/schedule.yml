@@ -5,7 +5,7 @@
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "017:00",
+    	startTime: "17:00",
     	endTime: "17:20",
     	sessionIds: [300]
     }
@@ -34,17 +34,17 @@
       endTime:   "20:00",
       sessionIds: [305]
     }
-        
--   
+    
+- 
   date: "2022-01-28"
   dateReadable: "Viernes 28 de Enero (Mañana)"
-  tracks:
+  tracks: 
     - {title: "Ponente", color: "#90be4e"}
-  timeslots:        
+  timeslots:
     - {
-      startTime: "9:30",
-      endTime:   "10:05",
-      sessionIds: [306]
+    	startTime: "9:30",
+    	endTime: "10:05",
+    	sessionIds: [306]
     }
     - {
       startTime: "10:05",
@@ -62,15 +62,16 @@
       sessionIds: [309]
     }
     - {
-     startTime: "11:45",
-     endTime:   "12:20",
-     sessionIds: [310]
+      startTime: "11:45",
+      endTime:   "12:20",
+      sessionIds: [310]
     }
     - {
       startTime: "12:20",
       endTime:   "13:20",
       sessionIds: [302]
     }
+        
 -   
   date: "2022-01-22"
   dateReadable: "Viernes 28 de Enero (Tarde)"
