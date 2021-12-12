@@ -3,7 +3,7 @@
     surname:      "Sáenz de Cabezón"
     company:       "Profesor de la Universidad de La Rioja y divulgador científico con el canal de youtube Derivando"
     bio:          ""
-    thumbnailUrl: eduardoUR 2.jpg
+    thumbnailUrl: eduardoUR2.jpg
     rockstar:     true
 -   id:           2
     name:         "Cristina"
@@ -18,21 +18,21 @@
     surname:      "Romero"
     company:        "Chief Product Officer en LA FRONTERA VR"
     bio:          ""
-    thumbnailUrl: OscarM.jpeg
+    thumbnailUrl: 
     rockstar:     true
 -   id:           4
     name:         "Juan Carlos"
     surname:      "González-Avella"
     company:        "Chief Data Officer APSL, Senior Data Scientist, Doctor en Física Estadística y Sistemas Complejos"
     bio:          ""
-    thumbnailUrl: JC Botibot.jpg
+    thumbnailUrl: JC.jpg
     rockstar:     true
 -   id:           5
     name:         "Marisa"
     surname:      "Huaynalaya"
     company:      "Chief Strategy Officer APSL, Product Manager de Soluciones de Datos e Inteligencia Artificial y Coach de Transformación Digital"
     bio:          ""
-    thumbnailUrl: Marisa Huaynalaya Botibot.jpg
+    thumbnailUrl: Marisa.jpg
     rockstar:     true
 -   id:           6
     name:         "Nuria"
@@ -60,7 +60,7 @@
     surname:      "Sunyer"
     company:      "Technical Solution Engineer en Google"
     bio:          ""
-    thumbnailUrl: Karina.jpeg
+    thumbnailUrl: 
     rockstar:     true
 -   id:           10
     name:         "Debbie"
@@ -74,19 +74,5 @@
     surname:      "Arranz"
     company:      "Developer Marketing Manager en NVIDIA"
     bio:          ""
-    thumbnailUrl: aniol.jpeg
-    rockstar:     true
--   id:           12
-    name:         "Rita"
-    surname:      "Geleta"
-    company:      "Estudiante de ciencia e inginiería de datos en la UPC y presidenta de las asociaciones JEDI (Joves Estudiants D’Informàtica) y FIB Visiona"
-    bio:          ""
-    thumbnailUrl: Rita.jpg
-    rockstar:     true
--   id:           13
-    name:         "Jose"
-    surname:      "Faneca"
-    company:      "Estudiante de inginiería de tecnologías y servicios de Telecomunicación en la ETSETB"
-    bio:          ""
-    thumbnailUrl: faneca.jpg
+    thumbnailUrl: 
     rockstar:     true
