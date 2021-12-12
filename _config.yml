@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "STEM Talks Menorca 2021"
+title: "STEM Talks Menorca 2022"
 email: "gdg.menorca@gmail.com"
 description: "STEM Talks"
 baseurl: "http://stem.gdgmenorca.com/"
@@ -61,7 +61,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "STEM TALKS MENORCA 2021"
+heroTitle: "STEM TALKS MENORCA 2022"
 eventDate: "21/22 de Enero / This time Online"
 # typeoutTextValues: '"", "Menorca", "Women", "Tech", "Makers"'
 typeoutFallback: "Season"
