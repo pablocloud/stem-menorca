@@ -18,7 +18,7 @@
     surname:      "Romero"
     company:        "Chief Product Officer en LA FRONTERA VR"
     bio:          ""
-    thumbnailUrl: 
+    thumbnailUrl: roberto.jpeg
     rockstar:     true
 -   id:           4
     name:         "Juan Carlos"
@@ -60,7 +60,7 @@
     surname:      "Sunyer"
     company:      "Technical Solution Engineer en Google"
     bio:          ""
-    thumbnailUrl: 
+    thumbnailUrl: albert.jpeg
     rockstar:     true
 -   id:           10
     name:         "Debbie"
@@ -74,5 +74,5 @@
     surname:      "Arranz"
     company:      "Developer Marketing Manager en NVIDIA"
     bio:          ""
-    thumbnailUrl: 
+    thumbnailUrl: asier.jpeg
     rockstar:     true
