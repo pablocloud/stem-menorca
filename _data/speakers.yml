@@ -72,9 +72,9 @@
 -   id:           11
     name:         "Asier"
     surname:      "Arranz"
-    company:      "Developer Marketing Manager en NVIDIA"
+    company:       "Developer Marketing Manager en NVIDIA"
     bio:          ""
-    thumbnailUrl: asier.jpeg
+    thumbnailUrl: DebbieOBrien.jpg
     rockstar:     true
     -   id:           12
     name:         "Marta"
