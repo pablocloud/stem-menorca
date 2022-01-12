@@ -22,12 +22,12 @@
     - {
       startTime: "18:30",
       endTime:   "18:50",
-      sessionIds: [299]
+      sessionIds: [304]
     }
     - {
       startTime: "18:50",
       endTime:   "19:25",
-      sessionIds: [304]
+      sessionIds: [305]
     }
     
 - 
