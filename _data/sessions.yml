@@ -24,10 +24,10 @@
     service:     false
     description: "Estudiantes de Matemáticas, Ingeniería Informática, Ingenieria en Telecomunicaciones y Ciencia e Ingenieria de Datos hablarán y resolverán dudas de estudiantes a punto de empezar estudios superiores ya sea sobre sus estudios o sobre la vida universitaria"
 -   id:          304
-    title:       "Roberto Romero"
+    title:       "Metaverso: el internet tangible - Roberto Romero"
     place:       ""
     service:     false
-    description: ""
+    description: "¿Que es el metaverso? ¿Como vamos a usar esta red las personas y las empresas? ¿Cómo nos preparamos para lo que está por venir? Roberto Romero contestará a todas estas preguntas y nos permitirá vislumbrar como será el futuro de los medios inmersivos."
 -   id:          305
     title:       "Caso de Transformación digital : Implementando chatbots en la organización - Juan Carlos González-Avella y Marisa Huaynalaya"
     place:       ""
