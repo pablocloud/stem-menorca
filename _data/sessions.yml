@@ -9,15 +9,15 @@
     service:     false
     description: "Bienvenida por parte de los organizadores"
 -   id:          301
-    title:       "Eduardo Sáenz de Cabezón"
+    title:       "Números grandes, enormes, descomunales y desorbitados - Eduardo Sáenz de Cabezón"
     place:       ""
     service:     false
-    description: ""
+    description: "¿Cuál es el número más grande que conoces? ¿lo puedes escribir? Entonces a lo mejor no es tan grande.. Los humanos tenemos ciertas dificultades con números muy muy grandes, pero ¿y los ordenadores? ¿Existe algún número que ningún ordenador podrá calcular nunca (pero nunca nunca nunca)? En esta charla vamos a dar respuesta a todos estos interrogantes, y a más."
 -   id:          302
-    title:       "Cristina Manresa"
+    title:       "Diseño centrado en las personas - Cristina Manresa"
     place:       ""
     service:     false
-    description: ""
+    description: "¿Cómo podemos diseñar una interfaz usable y accesible para el ordenador? En esta charla se introduce la disciplina de la Interacción Persona-Ordenador  y se presentarán proyectos de investigación realizados en la Unidad de Gráficos, Visión por Computador e IA de la UIB que van desde el diseño de interfaces para personas con discapacidad hasta la IA explicable."
 -   id:          303
     title:       "Mesa redonda de estudiantes de grados STEM"
     place:       ""
@@ -29,15 +29,15 @@
     service:     false
     description: ""
 -   id:          305
-    title:       "Juan Carlos González-Avella y Marisa Huaynalaya"
-    place:       ""
+    title:       "Caso de Transformación digital : Implementando chatbots en la organización - Juan Carlos González-Avella y Marisa Huaynalaya"
+    place:       "En esta conversación nos introduciremos en el mundo de los asistentes conversacionales: los retos para su implementación en la organización y también sus ventajas.  Conoceremos la experiencia de diseño, desarrollo y mantenimiento de estas herramientas tomando en cuenta casos reales."
     service:     false
     description: ""
 -   id:          306
-    title:       "Nuria Pelechano"
+    title:       "Interactuando con humanoides virtuales: desde los self-avatars a las multitudes - Nuria Pelechano"
     place:       ""
     service:     false
-    description: ""
+    description: "Los humanos virtuales se pueden utilizar en la realidad virtual inmersiva para diferentes propósitos, como representar al usuario con un avatar propio, visualizar a otros usuarios para la RV colaborativa o simular personajes autónomos o multitudes que sirven para dar vida a un entorno virtual"
 -   id:          307
     title:       "Jose Antonio Ondiviela"
     place:       ""
@@ -52,25 +52,25 @@
     title:       "Marta Martin"
     place:       ""
     service:     false
-    description: ""
+    description: "Charla a universitarios sobre las biociencias y la facultad de biociencias de la Universitat Autònoma de Barcelona"
 -   id:          310
     title:       "Ignasi Furió"
     place:       ""
     service:     false
-    description: ""
+    description: "Charla a universitarios sobre las ingenierías y la escuela politécnica superior de la Universitat de les Illes Balears"
 -   id:          311
     title:       "Albert Sunyer"
     place:       ""
     service:     false
     description: ""
 -   id:          312
-    title:       "Debbie O'Brien"
+    title:       "From Zero to Hero with several years of Anguish. Bursting through barriers - Debbie O'Brien"
     place:       ""
     service:     false
-    description: ""
+    description: "¿Tienes miedo de dar el siguiente paso? ¿Crees que no eres lo suficientemente bueno? ¿O te preguntas por qué te contrataron en primer lugar? Esto es lo que llamamos Síndrome del Impostor. ¿Sabías que algunas de las personas más famosas, brillantes y asombrosas la padecen? En esta charla, compartiré mi experiencia y mis pensamientos y, con suerte, te ayudaré a dar ese paso para convertirte en el desarrollador que realmente quieres ser."
 -   id:          313
-    title:       "Asier Arranz"
+    title:       "Edge-AI y el omniverso - Asier Arranz"
     place:       ""
     service:     false
-    description: ""
+    description: "Cuando parecía que los mundos virtuales eran cosa del pasado, vemos que han llegado para quedarse. En el mundo de la inteligencia artificial se emplean para entrenar a la IA en entornos que son una réplica del real, ya que un robot o coche sin conductor, se va a encontrar en situaciones que no son fácilmente reproducibles en la vida real. Como por ejemplo, los robots y drones que están en Marte, donde no hay un conexión a internet, y todo se ha de basar en modelos sobre los que se ha entrenado, y donde la inferencia se hace en tiempo real con Edge-AI."
     
