@@ -30,9 +30,9 @@
     description: ""
 -   id:          305
     title:       "Caso de Transformación digital : Implementando chatbots en la organización - Juan Carlos González-Avella y Marisa Huaynalaya"
-    place:       "En esta conversación nos introduciremos en el mundo de los asistentes conversacionales: los retos para su implementación en la organización y también sus ventajas.  Conoceremos la experiencia de diseño, desarrollo y mantenimiento de estas herramientas tomando en cuenta casos reales."
+    place:       ""
     service:     false
-    description: ""
+    description: "En esta conversación nos introduciremos en el mundo de los asistentes conversacionales: los retos para su implementación en la organización y también sus ventajas.  Conoceremos la experiencia de diseño, desarrollo y mantenimiento de estas herramientas tomando en cuenta casos reales."
 -   id:          306
     title:       "Interactuando con humanoides virtuales: desde los self-avatars a las multitudes - Nuria Pelechano"
     place:       ""
