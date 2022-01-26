@@ -60,9 +60,9 @@
     description: "Charla a universitarios sobre las ingenierías y la escuela politécnica superior de la Universitat de les Illes Balears"
 -   id:          311
     title:       "Cloud 101 - Albert Sunyer"
-    place:       "Què és el cloud? A aquesta xerrada respondrem a aquesta pregunta i sobre com ens ajuda al nostre dia a dia"
+    place:       ""
     service:     false
-    description: ""
+    description: "Què és el cloud? A aquesta xerrada respondrem a aquesta pregunta i sobre com ens ajuda al nostre dia a dia"
 -   id:          312
     title:       "From Zero to Hero with several years of Anguish. Bursting through barriers - Debbie O'Brien"
     place:       ""
