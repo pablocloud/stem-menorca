@@ -59,8 +59,8 @@
     service:     false
     description: "Charla a universitarios sobre las ingenierías y la escuela politécnica superior de la Universitat de les Illes Balears"
 -   id:          311
-    title:       "Albert Sunyer"
-    place:       ""
+    title:       "Cloud 101 - Albert Sunyer"
+    place:       "Què és el cloud? A aquesta xerrada respondrem a aquesta pregunta i sobre com ens ajuda al nostre dia a dia"
     service:     false
     description: ""
 -   id:          312
