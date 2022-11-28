@@ -1,85 +1,71 @@
 -   id:           1
+    name:         "David"
+    surname:      "García Valiñas"
+    company:      "Senior Developer en IBM y Google Developer Expert en Web"
+    title:        ""
+    bio:          ""
+    thumbnailUrl: cristin.jpeg
+    rockstar:     true
+-   id:           2
+    name:         "Dr. Andrés-Leonardo"
+    surname:      "Martínez-Ortiz"
+    company:      "Machine Learning Site Reliability Engineering en Google Zurich"
+    bio:          ""
+    thumbnailUrl: roberto.jpeg
+    rockstar:     true
+-   id:           3
+    name:         "Cynthia"
+    surname:      "Gálvez López"
+    company:      "Ingeniera y diseñadora especializada en realidad aumentada"
+    bio:          ""
+    thumbnailUrl: JC.jpg
+    rockstar:     true
+-   id:           4
+    name:         "Paz"
+    surname:      "Morillo"
+    company:      "Profesora Titular en la Universidad Politécnica de Catalunya"
+    bio:          ""
+    thumbnailUrl: Marisa.jpg
+    rockstar:     true
+-   id:           5
+    name:         "Concepción"
+    surname:      "Diaz"
+    company:      "AI / Data / Machine Learning @ Google Cloud"
+    bio:          ""
+    thumbnailUrl: fotoNuria.jpg
+    rockstar:     true
+-   id:           6
+    name:         "Felip"
+    surname:      "Riera"
+    company:       "Profesor contratado doctor del departamento de Ciencias Matemáticas e Informática en la UIB"
+    bio:          ""
+    thumbnailUrl: Ondiviela-Bio-Photo.jpg
+    rockstar:     true
+-   id:           7
+    name:         "Sònia"
+    surname:      "Casillas"
+    company:      "Profesora asociada en la Universitat Autònoma de Catalunya"
+    bio:          ""
+    thumbnailUrl: ignasi.jpg
+    rockstar:     true
+-   id:           8
+    name:         "Xisco"
+    surname:      "Bonnín Pascual"
+    company:      "Profesor Contratado Doctor interino de la Universitat de les Illes Balears"
+    bio:          ""
+    thumbnailUrl: albert.jpeg
+    rockstar:     true
+-   id:           9
+    name:         "Paola"
+    surname:      "García"
+    company:       "Former CEO de Chefly"
+    bio:          ""
+    thumbnailUrl: DebbieOBrien.jpg
+    rockstar:     true
+-   id:           10
     name:         "Eduardo"
     surname:      "Sáenz de Cabezón"
     company:       "Profesor de la Universidad de La Rioja y divulgador científico con el canal de youtube Derivando"
     bio:          ""
     thumbnailUrl: eduardoUR2.jpg
-    rockstar:     true
--   id:           2
-    name:         "Cristina"
-    surname:      "Manresa"
-    company:      "Doctora en Informática y profesora Titular de la Universitat de les Illes Balears"
-    title:        "Doctora en Informática y profesora Titular de la Universitat de les Illes Balears"
-    bio:          "Doctora en Informática y profesora Titular de la Universitat de les Illes Balears"
-    thumbnailUrl: cristin.jpeg
-    rockstar:     true
--   id:           3
-    name:         "Roberto"
-    surname:      "Romero"
-    company:        "Chief Product Officer en LA FRONTERA VR"
-    bio:          ""
-    thumbnailUrl: roberto.jpeg
-    rockstar:     true
--   id:           4
-    name:         "Juan Carlos"
-    surname:      "González-Avella"
-    company:        "Chief Data Officer APSL, Senior Data Scientist, Doctor en Física Estadística y Sistemas Complejos"
-    bio:          ""
-    thumbnailUrl: JC.jpg
-    rockstar:     true
--   id:           5
-    name:         "Marisa"
-    surname:      "Huaynalaya"
-    company:      "Chief Strategy Officer APSL, Product Manager de Soluciones de Datos e Inteligencia Artificial y Coach de Transformación Digital"
-    bio:          ""
-    thumbnailUrl: Marisa.jpg
-    rockstar:     true
--   id:           6
-    name:         "Nuria"
-    surname:      "Pelechano"
-    company:      "Profesora agregada en la Universitat Politècnica de Catalunya y miembro del centro de investigación de Visualization, Virtual Reality and Graphics Interaction"
-    bio:          ""
-    thumbnailUrl: fotoNuria.jpg
-    rockstar:     true
--   id:           7
-    name:         "Jose Antonio"
-    surname:      "Ondiviela"
-    company:       "Director de SmartCities para Europa en Microsoft"
-    bio:          ""
-    thumbnailUrl: Ondiviela-Bio-Photo.jpg
-    rockstar:     true
--   id:           8
-    name:         "Ignasi"
-    surname:      "Furió"
-    company:      "Profesor titular en la Universitat de les Illes Balears en el área de ingeniería telemática"
-    bio:          ""
-    thumbnailUrl: ignasi.jpg
-    rockstar:     true
--   id:           9
-    name:         "Albert"
-    surname:      "Sunyer"
-    company:      "Technical Solution Engineer en Google"
-    bio:          ""
-    thumbnailUrl: albert.jpeg
-    rockstar:     true
--   id:           10
-    name:         "Debbie"
-    surname:      "O'Brien"
-    company:       "Head Developer Advocate en Bit y Google Developer Expert en web"
-    bio:          ""
-    thumbnailUrl: DebbieOBrien.jpg
-    rockstar:     true
--   id:           11
-    name:         "Asier"
-    surname:      "Arranz"
-    company:       "Developer Marketing Manager en NVIDIA"
-    bio:          ""
-    thumbnailUrl: asier.jpeg
-    rockstar:     true
--   id:           12
-    name:         "Marta"
-    surname:      "Martin"
-    company:      "investigadora en el Grup Genome Instability i vicedegana de Movilitat y Promoció de la facultat de biociències de la Universitat Autònoma de Barcelona"
-    bio:          ""
-    thumbnailUrl: Marta.png
     rockstar:     true
