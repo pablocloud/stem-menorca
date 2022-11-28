@@ -4,28 +4,28 @@
     company:      "Senior Developer en IBM y Google Developer Expert en Web"
     title:        ""
     bio:          ""
-    thumbnailUrl: cristin.jpeg
+    thumbnailUrl: david.png
     rockstar:     true
 -   id:           2
     name:         "Dr. Andrés-Leonardo"
     surname:      "Martínez-Ortiz"
     company:      "Machine Learning Site Reliability Engineering en Google Zurich"
     bio:          ""
-    thumbnailUrl: roberto.jpeg
+    thumbnailUrl: almo.png
     rockstar:     true
 -   id:           3
     name:         "Cynthia"
     surname:      "Gálvez López"
     company:      "Ingeniera y diseñadora especializada en realidad aumentada"
     bio:          ""
-    thumbnailUrl: JC.jpg
+    thumbnailUrl: cynthia.jpg
     rockstar:     true
 -   id:           4
     name:         "Paz"
     surname:      "Morillo"
     company:      "Profesora Titular en la Universidad Politécnica de Catalunya"
     bio:          ""
-    thumbnailUrl: Marisa.jpg
+    thumbnailUrl: paz.jpeg
     rockstar:     true
 -   id:           5
     name:         "Concepción"
@@ -53,14 +53,14 @@
     surname:      "Bonnín Pascual"
     company:      "Profesor Contratado Doctor interino de la Universitat de les Illes Balears"
     bio:          ""
-    thumbnailUrl: albert.jpeg
+    thumbnailUrl: xisco.jpg
     rockstar:     true
 -   id:           9
     name:         "Paola"
     surname:      "García"
     company:       "Former CEO de Chefly"
     bio:          ""
-    thumbnailUrl: DebbieOBrien.jpg
+    thumbnailUrl: paola.png
     rockstar:     true
 -   id:           10
     name:         "Eduardo"
