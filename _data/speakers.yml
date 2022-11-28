@@ -32,21 +32,21 @@
     surname:      "Diaz"
     company:      "AI / Data / Machine Learning @ Google Cloud"
     bio:          ""
-    thumbnailUrl: fotoNuria.jpg
+    thumbnailUrl: conchi.jpeg
     rockstar:     true
 -   id:           6
     name:         "Felip"
     surname:      "Riera"
     company:       "Profesor contratado doctor del departamento de Ciencias Matemáticas e Informática en la UIB"
     bio:          ""
-    thumbnailUrl: Ondiviela-Bio-Photo.jpg
+    thumbnailUrl: felip.jpeg
     rockstar:     true
 -   id:           7
     name:         "Sònia"
     surname:      "Casillas"
     company:      "Profesora asociada en la Universitat Autònoma de Catalunya"
     bio:          ""
-    thumbnailUrl: ignasi.jpg
+    thumbnailUrl: sonia.jpeg
     rockstar:     true
 -   id:           8
     name:         "Xisco"
