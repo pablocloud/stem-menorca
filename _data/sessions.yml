@@ -24,7 +24,7 @@
     service:     false
     description: "Muchas son las dudas sobre este concepto todavía no definido, ¿exactamente qué es? ¿Será una utopía? ¿me compro tierras virtuales? En esta charla conoceremos las claves para comprender el camino hacia un internet más inmersivo."
 -   id:          304
-    title:       ¿Cómo compartir cálculos entre desconfiados? - Paz Morillo"
+    title:       "¿Cómo compartir cálculos entre desconfiados? - Paz Morillo"
     place:       ""
     service:     false
     description: "Diferentes entidades poseedoras de datos privados, por ejemplo datos médicos, quieren hacer cálculos con los datos de todas ellas. Al ser datos privados sólo se comparten con las otras entidades una vez han sido cifrados. El problema que vamos a tratar en esta charla es cómo hacer cálculos con los datos cifrados de forma que al descifrar el resultado final se obtenga el resultado de la operación que se quería hacer con los datos originales."
