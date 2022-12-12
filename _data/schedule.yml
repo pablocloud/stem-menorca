@@ -42,33 +42,33 @@
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
     - {
-   	 startTime: "10:30",
-   	 endTime: "11:10",
+   	 startTime: "10:00",
+   	 endTime: "10:40",
    	 sessionIds: [304]
     }
     - {
-     startTime: "11:10",
-     endTime:   "11:50",
+     startTime: "10:40",
+     endTime:   "11:20",
      sessionIds: [305]
     }
     - {
-     startTime: "11:50",
-     endTime:   "12:10",
+     startTime: "11:20",
+     endTime:   "11:40",
      sessionIds: [299]
     }
     - {
-     startTime: "12:10",
-     endTime:   "12:50",
+     startTime: "11:40",
+     endTime:   "12:20",
      sessionIds: [306]
     }
     - {
-     startTime: "12:50",
-     endTime:   "13:30",
+     startTime: "12:20",
+     endTime:   "13:00",
      sessionIds: [307]
     }
     - {
-     startTime: "13:30",
-     endTime:   "14:00",
+     startTime: "13:00",
+     endTime:   "13:30",
      sessionIds: [308]
     }
         
