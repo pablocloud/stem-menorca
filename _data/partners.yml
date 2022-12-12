@@ -2,7 +2,7 @@
   group: "General sponsor"
   elements:
     - {name: "FIB", description: "FIB", link: "https://www.fib.upc.edu", imageUrl: "fib.png"}
-    - {name: "Icono", description: "Icono", link: "http://www.icono.cat", imageUrl: "icono.jpg"}
+    - {name: "Icono", description: "Icono", link: "http://www.icono.cat", imageUrl: "icono.png"}
     - {name: "UIB", description: "UIB", link: "http://www.uib.es/es", imageUrl: "uib.png"}
     - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.png"}
     - {name: "COEIIB", description: "COEIIB", link: "https://coeiib.com/", imageUrl: "letras castellano.png"}
