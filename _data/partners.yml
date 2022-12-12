@@ -6,7 +6,3 @@
     - {name: "UIB", description: "UIB", link: "http://www.uib.es/es", imageUrl: "uib.png"}
     - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.png"}
     - {name: "COEIIB", description: "COEIIB", link: "https://coeiib.com/", imageUrl: "letras castellano.png"}
-    - {name: "APSL", description: "APSL", link: "https://www.apsl.net/", imageUrl: "apsl.png"}
-    - {name: "XUROA", description: "XUROA", link: "https://www.xuroa.com/", imageUrl: "xuroa.jpeg"}
-    
-    
