@@ -59,14 +59,14 @@
 -   id:           9
     name:         "Paola"
     surname:      "García"
-    company:       "Former CEO de Chefly"
+    company:      "Former CEO de Chefly"
     bio:          ""
     thumbnailUrl: paola.png
     rockstar:     true
 -   id:           10
     name:         "Carlos"
-    surname:      "Azaustre""
-    company:       "Google Developer Expert en Tecnologías web"
+    surname:      "Azaustre"
+    company:      "Google Developer Expert en Tecnologías web"
     bio:          ""
-    thumbnailUrl:
+    thumbnailUrl: 
     rockstar:     true
