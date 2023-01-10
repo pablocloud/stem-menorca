@@ -14,11 +14,12 @@
     thumbnailUrl: almo.png
     rockstar:     true
 -   id:           3
-    name:         "Cynthia"
-    surname:      "Gálvez López"
-    company:      "Ingeniera y diseñadora especializada en realidad aumentada"
+    name:         "Eduardo"
+    surname:      "Sáenz de Cabezón"
+    company:       "Profesor de la Universidad de La Rioja y divulgador científico con el canal de youtube Derivando"
     bio:          ""
-    thumbnailUrl: cynthia.jpg
+    thumbnailUrl: eduardoUR2.jpg
+    rockstar:     true
     rockstar:     true
 -   id:           4
     name:         "Paz"
@@ -63,9 +64,9 @@
     thumbnailUrl: paola.png
     rockstar:     true
 -   id:           10
-    name:         "Eduardo"
-    surname:      "Sáenz de Cabezón"
-    company:       "Profesor de la Universidad de La Rioja y divulgador científico con el canal de youtube Derivando"
+    name:         "Carlos"
+    surname:      "Azaustre""
+    company:       "Google Developer Expert en Tecnologías web"
     bio:          ""
-    thumbnailUrl: eduardoUR2.jpg
+    thumbnailUrl:
     rockstar:     true
