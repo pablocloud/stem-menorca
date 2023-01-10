@@ -19,10 +19,10 @@
     service:     false
     description: "Presentación de los principios de ingeniería de producción que permiten que Google proporcione servicio a usuarios a lo largo del mundo, y que se han constituido en la base de una nueva disciplina conocida como Site Reliability Engineering (SRE)."
 -   id:          303
-    title:       "Carlos Azaustre""
+    title:       "Carlos Azaustre"
     place:       ""
     service:     false
-    description: "Muchas son las dudas sobre este concepto todavía no definido, ¿exactamente qué es? ¿Será una utopía? ¿me compro tierras virtuales? En esta charla conoceremos las claves para comprender el camino hacia un internet más inmersivo."
+    description: ""
 -   id:          304
     title:       "¿Cómo compartir cálculos entre desconfiados? - Paz Morillo"
     place:       ""
