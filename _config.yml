@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "STEM Talks Menorca 2023"
+title: "STEM Talks Menorca 2024"
 email: "gdg.menorca@gmail.com"
 description: "STEM Talks"
 baseurl: "http://stem.gdgmenorca.com/"
@@ -61,8 +61,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "STEM TALKS MENORCA 2023"
-eventDate: "26 - 27 de Enero in Centre Bit Menorca"
+heroTitle: "STEM TALKS MENORCA 2024"
+eventDate: "25 y 26 de Enero en el Centre Bit Menorca"
 # typeoutTextValues: '"", "Menorca", "Women", "Tech", "Makers"'
 typeoutFallback: "Season"
 heroButtons:
@@ -76,8 +76,8 @@ aboutBlock:
  # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
    - {text: '<iframe width="560" height="315" src="https://www.youtube.com/embed/yko9WGk6EJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'}
-   - {text: "<p>El 26 y 27 de enero nos volvemos a ver en el Centre Bit Menorca para celebrar el STEM Talks Menorca. Un evento relacionado con el mundo STEM (Science, Technology, Engineering, Mathematics) con el objetivo de la divulgación científico-técnica y que se encuentra en su 6a edición. Cinco ediciones dedicadas a unas jornadas con la ciencia y la tecnología como protagonista preceden la de este año donde nos podremos volver a juntar sin restricciones en interiores.  Un evento de dos días, 26 y 27 de enero, donde volveremos a vernos y disfrutaremos de conferencias de grandes profesionales en la tecnología y la ciencia dirigidas a cualquier interesado en la materia con un objetivo claro: aprender.
-   </p><p>STEM Talks Menorca es un evento totalmente gratuito que te acercará a cuestiones actuales de la tecnología dadas por grandes exponentes que vienen de diferentes puntos de España y que son expertos en sus campos. Temas como inteligencia artificial, computación cuántica, realidad virtual, metaverso... Diferentes ponentes de instituciones tanto públicas como privadas nos llevarán un evento de calidad este año en versión híbrida con directo en youtube y presencialidad en el Centre Bit Menorca.
+   - {text: "<p>El 25 y 26 de enero nos volvemos a ver en el Centre Bit Menorca para celebrar el STEM Talks Menorca. Un evento relacionado con el mundo STEM (Science, Technology, Engineering, Mathematics) con el objetivo de la divulgación científico-técnica y que se encuentra en su 7a edición. Seis ediciones dedicadas a unas jornadas con la ciencia y la tecnología como protagonista preceden la de este año donde nos podremos volver a juntar en comunidad.  Un evento de dos días, 25 y 26 de enero, donde volveremos a vernos y disfrutaremos de conferencias de grandes profesionales en la tecnología y la ciencia dirigidas a cualquier interesado en la materia con un objetivo claro: aprender.
+   </p><p>STEM Talks Menorca es un evento totalmente gratuito e inclusivo que te acercará a cuestiones actuales de la tecnología dadas por grandes exponentes que vienen de diferentes puntos de España y que son expertos en sus campos. Temas como inteligencia artificial, computación cuántica, realidad virtual, metaverso... Diferentes ponentes de instituciones tanto públicas como privadas nos llevarán un evento de calidad este año en versión híbrida con directo en youtube y presencialidad en el Centre Bit Menorca.
 </p>"
 }
 # Statistic Block
@@ -93,7 +93,7 @@ latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 13
+rockstarSpeakersCount: 9
 rockstarSpeakersTitle: "Ponentes"
 rockstarSpeakersButtonText: "Ver a las ponentes"
 
