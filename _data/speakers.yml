@@ -1,72 +1,57 @@
 -   id:           1
-    name:         "David"
-    surname:      "García Valiñas"
-    company:      "Senior Developer en IBM y Google Developer Expert en Web"
+    name:         "Cynthia"
+    surname:      "Gálvez López"
+    company:      "Creative Technologist Manager en Accenture Song"
     title:        ""
     bio:          ""
-    thumbnailUrl: david.png
+    thumbnailUrl: cynthia.jpg
     rockstar:     true
 -   id:           2
-    name:         "Dr. Andrés-Leonardo"
-    surname:      "Martínez-Ortiz"
-    company:      "Machine Learning Site Reliability Engineering en Google Zurich"
+    name:         "Martí"
+    surname:      "Ras Segura"
+    company:      "Responsable de producto en Vottun"
     bio:          ""
-    thumbnailUrl: almo.png
+    thumbnailUrl: marti.jpg
     rockstar:     true
 -   id:           3
-    name:         "Eduardo"
-    surname:      "Sáenz de Cabezón"
-    company:       "Profesor de la Universidad de La Rioja y divulgador científico con el canal de youtube Derivando"
+    name:         "Juantomás"
+    surname:      "García Molina"
+    company:       "Chief Envisioning Officer en SNGULAR"
     bio:          ""
-    thumbnailUrl: eduardoUR2.jpg
-    rockstar:     true
+    thumbnailUrl: juantomas.jpeg
     rockstar:     true
 -   id:           4
-    name:         "Paz"
-    surname:      "Morillo"
-    company:      "Profesora Titular en la Universidad Politécnica de Catalunya"
+    name:         "Emilio"
+    surname:      "García Fidalgo"
+    company:      "Profesor Ayudante Doctor en la Universitat de les Illes Balears"
     bio:          ""
-    thumbnailUrl: paz.jpeg
+    thumbnailUrl: emilio.jpg
     rockstar:     true
 -   id:           5
-    name:         "Concepción"
-    surname:      "Diaz"
-    company:      "AI / Data / Machine Learning @ Google Cloud"
+    name:         "María Rosario"
+    surname:      "Fernández Gallegos"
+    company:      "Profesora asociada e investigadora en el departamento de bioquímica y biología molecular de la UAB"
     bio:          ""
-    thumbnailUrl: conchi.jpeg
+    thumbnailUrl: rosario.jpeg
     rockstar:     true
 -   id:           6
-    name:         "Felip"
-    surname:      "Riera"
-    company:       "Profesor contratado doctor del departamento de Ciencias Matemáticas e Informática en la UIB"
+    name:         "Adrián"
+    surname:      "García 'El Físico Barbudo'"
+    company:      "Técnico de comunicación en el Instituto de Física Interdisciplinar y Sistemas Complejos (IFISC, UIB-CSIC)"
     bio:          ""
-    thumbnailUrl: felip.JPG
+    thumbnailUrl: adrian.webp
     rockstar:     true
 -   id:           7
-    name:         "Sònia"
-    surname:      "Casillas"
-    company:      "Professora agregada i investigadora al Departament de Genètica i Microbiologia de la Universitat Autònoma de Barcelona"
+    name:         "Karina"
+    surname:      "Gibert Oliveras"
+    company:      "Catedrática y directora del centro del centro de investigación IDEAI (UPC) y decana del COEINF"
     bio:          ""
-    thumbnailUrl: sonia.jpeg
+    thumbnailUrl: karina.png
     rockstar:     true
 -   id:           8
-    name:         "Xisco"
-    surname:      "Bonnín Pascual"
-    company:      "Profesor Contratado Doctor interino de la Universitat de les Illes Balears"
+    name:         "Luis"
+    surname:      "Velasco"
+    company:      "EMEA Data Principal Architect en Google"
     bio:          ""
-    thumbnailUrl: xisco.jpg
-    rockstar:     true
--   id:           9
-    name:         "Paola"
-    surname:      "García"
-    company:      "Former CEO de Chefly"
-    bio:          ""
-    thumbnailUrl: paola.png
-    rockstar:     true
--   id:           10
-    name:         "Carlos"
-    surname:      "Azaustre"
-    company:      "Desarrollador y Divulgador sobre Programación en YouTube. GDE y MVP"
-    bio:          ""
-    thumbnailUrl: carlos_azaustre.png
+    thumbnailUrl: luis.png
     rockstar:     true
