@@ -9,61 +9,56 @@
     service:     false
     description: "Bienvenida por parte de los organizadores"
 -   id:          301
-    title:       "Un ordenador cuántico en el mundo real - David García"
+    title:       "Viaje hacia la computación espacial para todos los públicos - Cynthia Gálvez"
     place:       ""
     service:     false
-    description: "¿Cómo conectas un ordenador cuántico con los usuarios? ¿Cómo es la relación entre un informático y la computación cuántica? ¿A qué huele un qubit? En esta charla intentaré proporcionarte información desde un punto de vista informático de cómo trabajamos con los ordenadores cuánticos en IBM."
+    description: "Exploraremos el fascinante mundo de la computación espacial, acercándonos a conceptos como la realidad aumentada (RA), virtual (RV) y mixta (RM) sumergiéndonos entre el mundo físico y el digital. Veremos el estado del arte de la tecnología, casos de uso y herramientas de desarrollo permitiendo que la computación espacial sea accesible para todos."
 -   id:          302
-    title:       "Ingeniería de Producción en Google - Dr. Andrés-Leonardo Martínez-Ortiz"
+    title:       "Introducció al Blockchain i casos d'ús real fora de les criptomonedes - Martí Ras"
     place:       ""
     service:     false
-    description: "Presentación de los principios de ingeniería de producción que permiten que Google proporcione servicio a usuarios a lo largo del mundo, y que se han constituido en la base de una nueva disciplina conocida como Site Reliability Engineering (SRE)."
+    description: "En aquesta sessió es tractarà per sobre sobre què és i perquè serveix la tecnologia blockchain fora de les criptomonedes i la inversió. Es veuràn casos d'ús d'empreses real que ha desenvolupat Vottun durant els últims anys."
 -   id:          303
-    title:       "Acelera tus desarrollos web con Firebase - Carlos Azaustre"
+    title:       "MagIA - Juantomás García"
     place:       ""
     service:     false
-    description: "¿Quieres aprender a desarrollar apps web rápido y fácil? Descubrirás cómo utilizar Firebase, una plataforma de Google, para agregar funciones a tus proyectos, desde autenticación de usuarios hasta bases de datos en tiempo real. ¡No te pierdas esta oportunidad de aprender a acelerar tus desarrollos web!"
+    description: ""
 -   id:          304
-    title:       "¿Cómo compartir cálculos entre desconfiados? - Paz Morillo"
+    title:       "Más Allá de la Ficción: Robótica e IA para Transformar el Mundo - Emilio García"
     place:       ""
     service:     false
-    description: "Diferentes entidades poseedoras de datos privados, por ejemplo datos médicos, quieren hacer cálculos con los datos de todas ellas. Al ser datos privados sólo se comparten con las otras entidades una vez han sido cifrados. El problema que vamos a tratar en esta charla es cómo hacer cálculos con los datos cifrados de forma que al descifrar el resultado final se obtenga el resultado de la operación que se quería hacer con los datos originales."
+    description: "¿Cómo están transformando la robótica y la inteligencia artificial nuestro mundo? En esta charla exploraremos diversas facetas emocionantes de la robótica y la inteligencia artificial. Desde la inspección aérea hasta robots cuadrúpedos, la presentación destacará aplicaciones prácticas y el impacto real en nuestra sociedad. Analizaremos la intersección entre la robótica e IA, desglosando tipos de IA,el actual auge tecnológico"
 -   id:          305
-    title:       "AI for Good - Concepción Diaz"
+    title:       "Desde las pequeñas moléculas hasta los grandes organismos: las biociencias en la obtención de nuevos fármacos y antibióticos - Rosario Fernández"
     place:       ""
     service:     false
-    description: "La conferencia explica cómo podemos emplear la Inteligencia Artificial para mejorar la vida de las personas. Se explicarán casos reales en los que participamos desde Google. Explicaré un proyecto para mejorar la calidad de vida de las personas ciegas, un proyecto  para predecir inundaciones y poder salvar vidas y un proyecto para intentar dar mejor autonomía a pacientes con ELA."
+    description: "Las Biociencias abarcan un conjunto de disciplinas que estudian desde las biomoléculas que componen a los seres vivos, hasta los organismos desarrollados y sus relaciones en ecosistemas. Utilizando como ejemplo la búsqueda de nuevos fármacos, o antibióticos, destinados a proveer de terapias aquellas enfermedades por las que todavía no disponemos de un tratamiento efectivo, o por las que se ha perdido efectividad, haremos breve recorrido de los diferentes Grados del ámbito de las Biociencias."
 -   id:          306
-    title:       "De 5G a 6G: objectius, tecnologies i protagonistes - Felip Riera"
+    title:       "Power Rangers, sistemas complejos y otras movidas tope tochas - El físico barbudo"
     place:       ""
     service:     false
-    description: "L’any 2020 marcà l’inici del desplegament massiu de 5G arreu del món. Si es segueix la 'tradició' de tenir una nova generació de comunicacions mòbils cada 10 anys, al 2030 veurem els primers desplegaments de la sisena generació (6G). A hores d’ara, la comunitat científica, tant acadèmica com industrial, i també els organismes d’estandardització, tenen ja la mirada posada a 6G. En aquesta xerrada abordarem quins objectius i reptes es plantegen, quines tecnologies estan essent investigades i quins són els perfils professionals que estan destinats a fer que 6G sigui una realitat. Veurem que aquest desenvolupament tecnològic i les seves aplicacions requereixen d'un ventall amplíssim de coneixements científics potencialment lligats a tots i cadascun dels estudis que imparteix l’Escola Politècnica Superior de la Universitat de les Illes Balears (EPS-UIB)."
+    description: "Me flipan los Power Rangers. Para mí esta serie infantil de los 90 fue la puerta de entrada a una rama de la física que está derribando las fronteras entre distintas ciencias: la física interdisciplinar. Esto de colaborar entre científicos y científicas de otros campos está más de moda que nunca, y al igual que los Power Rangers, esta colaboración es imprescindible para acabar con enemigos gigantes que de otra manera serían invencibles."
 -   id:          307
-    title:       "Dels organismes i sistemes, a les cèl·lules i biomolècules, als bits: un recorregut per les biociències - Sònia Casillas"
-    place:       ""
-    service:     false
-    description: "Què fa una persona biòloga ambiental en el seu dia a dia? I una bioquímica? Una genetista? Una microbiòloga? Quins aspectes tenen en comú, totes elles, com a biocientífiques? I quins altres les diferencia? En aquesta xerrada parlarem de l’ampli ventall de sortides de la persona biocientífica a través de casos particulars, per donar una visió de les biociències en el món actual de la recerca, la indústria i la societat."
--   id:          308
     title:       "Mesa redonda de estudiantes de grados STEM"
     place:       ""
     service:     false
     description: "Estudiantes de Ingeniería biomédica, Ingeniería Informática, Física y Biología hablarán y resolverán dudas de estudiantes a punto de empezar estudios superiores ya sea sobre sus estudios o sobre la vida universitaria"
--   id:          309
-    title:       "Hacia la inspección robotizada de grandes buques - Xisco Bonnín Pascual"
+-   id:          308
+    title:       "Intel.ligència Artificial: Hi ha vida més enllà de chatGPT i el machine learning - Karina Gibert"
     place:       ""
     service:     false
-    description: "¿Cómo podemos usar la robótica y la visión por computador para ayudar en la inspección de los grandes buques? En esta charla repasaremos las contribuciones aportadas a este campo por el grupo de robótica aérea de la Universitat de les Illes Balears durante la realización de cuatro proyectos europeos que suman 15 años de investigación."
--   id:          310
-    title:       "Retención del talento en la empresa tech: Tecnología y neurodivergencia - Paola García"
+    description: "La xerrada repassarà des d'una perspectiva global l'àmbit de la Intel.ligència Artificial i analitzarà les diferents branques de la IA i algunes aplicacions reals on s'exploraran les avantatges i limitacions de les darreres eines aparegudes en l'ambit de la IA generativa i les darreres extensions de l'aprenentatge automàtic, així com altres aproximacions d'intel.ligència artificial orientades a les noves tendències d'intel.ligència aritifical híbrida entre les que destacar els sistemes intel.ligents de suport a la presa de decisions o el rol de les components basades en coneixement o raonament i noves perspectives per utilitzar-les com a complement de les components basades únicament en dades."
+-   id:          309
+    title:       "Construimos un modelo ML juntos - Luis Velasco"
     place:       ""
     service:     ""
-    description: "Muchas empresas se preguntan estos días por qué no pueden retener a los 'unicornios tech' que entran en su empresa. ¿Es solo cuestión de dinero? Si fuera así estaría resuelta la ecuación pero hay algo más...  ¿Le pones mimo al onboarding y después el empleado solo está una año en tu empresa? ¿Piensas que no sabes que más pudiste hacer en el proceso de selección cuando parecía un match perfecto? En esta charla te presento el concepto Neurodivergencia. Y es que, en no pocas ocasiones, las personas más demandadas del mercado tech tienen cerebros únicos, cableados de una manera diferente y eso es lo que precisamente les hace brillar.  Pero tienes que cuidarlos, porque no van a quedarse si no están agusto en tu empresa, si no están en su 'flow'.  Y es difícil que ocurra si no sabes sobre perfiles neurodivergentes.  Vamos a ello!"
--   id:          311
-    title:       "Números grandes, enormes, descomunales y desorbitados - Eduardo Sáenz de Cabezón"
+    description: "vamos a generar un modelo de Machine Learning paso a paso, usare un ejemplo, en este caso un sencilla regresión lineal para predecir los tiempos en una maratón. Pero te animo a que intentes resolver tu propio problema."
+-   id:          310
+    title:       ""
     place:       ""
     service:     false
-    description: "¿Cuál es el número más grande que conoces? ¿lo puedes escribir? Entonces a lo mejor no es tan grande.. Los humanos tenemos ciertas dificultades con números muy muy grandes, pero ¿y los ordenadores? ¿Existe algún número que ningún ordenador podrá calcular nunca (pero nunca nunca nunca)? En esta charla vamos a dar respuesta a todos estos interrogantes, y a más."
--   id:          312
+    description: ""
+-   id:          311
     title:       "Cloenda"
     place:       ""
     service:     false
