@@ -1,6 +1,6 @@
 - 
-  date: "2023-01-26"
-  dateReadable: "Jueves 26 de enero"
+  date: "2024-01-26"
+  dateReadable: "Jueves 25 de enero"
   tracks: 
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
@@ -36,8 +36,8 @@
     }
     
 - 
-  date: "2023-01-27"
-  dateReadable: "Viernes 27 de Enero (Mañana)"
+  date: "2024-01-26"
+  dateReadable: "Viernes 26 de Enero (Mañana)"
   tracks: 
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
@@ -68,8 +68,8 @@
     }
         
 -   
-  date: "2023-01-27"
-  dateReadable: "Viernes 27 de Enero (Tarde)"
+  date: "2024-01-26"
+  dateReadable: "Viernes 26 de Enero (Tarde)"
   tracks:
      - {title: "Ponente", color: "#90be4e"}
   timeslots:
