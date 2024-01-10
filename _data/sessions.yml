@@ -54,10 +54,10 @@
     service:     ""
     description: "vamos a generar un modelo de Machine Learning paso a paso, usare un ejemplo, en este caso un sencilla regresión lineal para predecir los tiempos en una maratón. Pero te animo a que intentes resolver tu propio problema."
 -   id:          310
-    title:       ""
+    title:       "Qilimanjaro i el futur de la computació amb els ordinadors quàntics analògics - Marta P. Estrellas"
     place:       ""
     service:     false
-    description: ""
+    description: ": L'era de la computació quàntica ha arribat amb una àmplia gamma de propostes d'implementació. Tot i que hi ha diferents models de computació quàntica, l'ecosistema quàntic es centra principalment en el desenvolupament del model digital o basat en portes. Aquest és un dels enfocaments més explorats de la computació quàntica, però no és l'únic. De fet, un candidat alternatiu per acostar-se a l'era dels ordinadors quàntics pràctics es basa en un paradigma de computació diferent però equivalentment universal: el model adiabàtic de computació, una arquitectura analògica que destaca per les seves promeses de superar les exigents necessitats de correcció d'errors del seu homòleg. En aquesta xerrada explorem els fonaments d'aquest paradigma alternatiu de computació quàntica, els seus avantatges, aplicacions i reptes, així com els esforços a Qilimanjaro cap a aquesta nova i prometedora tecnologia."
 -   id:          311
     title:       "Cloenda"
     place:       ""
