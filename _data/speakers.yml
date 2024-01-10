@@ -55,3 +55,10 @@
     bio:          ""
     thumbnailUrl: luis.png
     rockstar:     true
+-   id:           9
+    name:         "Marta"
+    surname:      "Marta P Estarellas"
+    company:      "Chief Executive Officer / Directora General a Qilimanjaro Quantum Tech"
+    bio:          ""
+    thumbnailUrl: marta.jpg
+    rockstar:     true
