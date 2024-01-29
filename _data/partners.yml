@@ -6,3 +6,5 @@
     - {name: "UIB", description: "UIB", link: "http://www.uib.es/es", imageUrl: "uib.png"}
     - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.png"}
     - {name: "COEIIB", description: "COEIIB", link: "https://coeiib.com/", imageUrl: "letras castellano.png"}
+    - {name: "CCII", description: "CCII", link: "https://www.ccii.es/", imageUrl: "logo_ccii_trasparente.png"}
+    
